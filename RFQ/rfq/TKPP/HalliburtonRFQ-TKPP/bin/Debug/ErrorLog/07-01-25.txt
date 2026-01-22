@@ -1,0 +1,75 @@
+-----------Exception Details on  07-01-2025 15:44:10-----------------
+--------------------------------*Start*----------------------------------------
+Logged At: 07-01-2025 15:44:10
+
+Error: SqlException
+
+Error from : D:\repo\rfq\TKPP\HalliburtonRFQ-TKPP\HalliburtonRibbon.cs On 2184
+
+Error Message: Execution Timeout Expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  07-01-2025 15:46:15-----------------
+--------------------------------*Start*----------------------------------------
+Logged At: 07-01-2025 15:46:15
+
+Error: SqlException
+
+Error from : D:\repo\rfq\TKPP\HalliburtonRFQ-TKPP\HalliburtonRibbon.cs On 2184
+
+Error Message: Execution Timeout Expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  07-01-2025 15:47:32-----------------
+--------------------------------*Start*----------------------------------------
+Logged At: 07-01-2025 15:47:32
+
+Error: SqlException
+
+Error from : D:\repo\rfq\TKPP\HalliburtonRFQ-TKPP\HalliburtonRibbon.cs On 2184
+
+Error Message: Execution Timeout Expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  07-01-2025 15:50:01-----------------
+--------------------------------*Start*----------------------------------------
+Logged At: 07-01-2025 15:50:01
+
+Error: SqlException
+
+Error from : D:\repo\rfq\TKPP\HalliburtonRFQ-TKPP\HalliburtonRibbon.cs On 2184
+
+Error Message: Execution Timeout Expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  07-01-2025 16:15:43-----------------
+--------------------------------*Start*----------------------------------------
+Logged At: 07-01-2025 16:15:43
+
+Error: COMException
+
+Error from : D:\repo\rfq\TKPP\HalliburtonRFQ-TKPP\HalliburtonRibbon.cs On 4022
+
+Error Message: The operation failed.
+
+
+--------------------------------*End*------------------------------------------
+
+
+

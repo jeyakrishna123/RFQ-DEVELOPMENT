@@ -1,0 +1,12 @@
+D:\.Net\Source Codes\Source Codes\FOSO\MFGDDBS001\obj\x64\Release\HalliburtonFOSO.csproj.AssemblyReference.cache
+D:\.Net\Source Codes\Source Codes\FOSO\MFGDDBS001\obj\x64\Release\HalliburtonRFQ.FOSOTemplate_Edior.resources
+D:\.Net\Source Codes\Source Codes\FOSO\MFGDDBS001\obj\x64\Release\HalliburtonRFQ.HalliburtonFOSORibbon.resources
+D:\.Net\Source Codes\Source Codes\FOSO\MFGDDBS001\obj\x64\Release\HalliburtonFOSO.Properties.Resources.resources
+D:\.Net\Source Codes\Source Codes\FOSO\MFGDDBS001\obj\x64\Release\HalliburtonRFQ.Quote_Comparision.resources
+D:\.Net\Source Codes\Source Codes\FOSO\MFGDDBS001\obj\x64\Release\HalliburtonRFQ.RequestApproval.resources
+D:\.Net\Source Codes\Source Codes\FOSO\MFGDDBS001\obj\x64\Release\HalliburtonRFQ.RequestPart.resources
+D:\.Net\Source Codes\Source Codes\FOSO\MFGDDBS001\obj\x64\Release\HalliburtonRFQ.SendRFQ.resources
+D:\.Net\Source Codes\Source Codes\FOSO\MFGDDBS001\obj\x64\Release\HalliburtonRFQ.SendRFQ_FOSO.resources
+D:\.Net\Source Codes\Source Codes\FOSO\MFGDDBS001\obj\x64\Release\HalliburtonRFQ.ViewRequest.resources
+D:\.Net\Source Codes\Source Codes\FOSO\MFGDDBS001\obj\x64\Release\HalliburtonFOSO.csproj.GenerateResource.cache
+D:\.Net\Source Codes\Source Codes\FOSO\MFGDDBS001\obj\x64\Release\HalliburtonFOSO.csproj.CoreCompileInputs.cache

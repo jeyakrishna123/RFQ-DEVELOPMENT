@@ -1,0 +1,61 @@
+-----------Exception Details on  01-06-2024 17:23:31-----------------
+--------------------------------*Start*----------------------------------------
+Logged At: 01-06-2024 17:23:31
+
+Error: SqlException
+
+Error from : D:\.Net\Source Codes\Source Codes\TKPP\HalliburtonRFQ-TKPP\HalliburtonRibbon.cs On 2100
+
+Error Message: Cannot open database "RFQ" requested by the login. The login failed.
+Login failed for user 'DESKTOP-K7BOH58\Jeganee'.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  01-06-2024 17:32:42-----------------
+--------------------------------*Start*----------------------------------------
+Logged At: 01-06-2024 17:32:42
+
+Error: SqlException
+
+Error from : D:\.Net\Source Codes\Source Codes\TKPP\HalliburtonRFQ-TKPP\HalliburtonRibbon.cs On 2142
+
+Error Message: Execution Timeout Expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  01-06-2024 19:17:21-----------------
+--------------------------------*Start*----------------------------------------
+Logged At: 01-06-2024 19:17:21
+
+Error: SqlException
+
+Error from : D:\.Net\Source Codes\Source Codes\TKPP\HalliburtonRFQ-TKPP\HalliburtonRibbon.cs On 2143
+
+Error Message: Execution Timeout Expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  01-06-2024 19:18:09-----------------
+--------------------------------*Start*----------------------------------------
+Logged At: 01-06-2024 19:18:09
+
+Error: SqlException
+
+Error from : D:\.Net\Source Codes\Source Codes\TKPP\HalliburtonRFQ-TKPP\HalliburtonRibbon.cs On 2143
+
+Error Message: Execution Timeout Expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+
+
+--------------------------------*End*------------------------------------------
+
+
+

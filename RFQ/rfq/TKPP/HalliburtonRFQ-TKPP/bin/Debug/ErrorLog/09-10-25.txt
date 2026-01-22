@@ -1,0 +1,15 @@
+-----------Exception Details on  09-10-2025 15:41:52-----------------
+--------------------------------*Start*----------------------------------------
+Logged At: 09-10-2025 15:41:52
+
+Error: COMException
+
+Error from : C:\Durga-Inovatrik\DotNet\RFQ\rfq\TKPP\HalliburtonRFQ-TKPP\HalliburtonRibbon.cs On 3878
+
+Error Message: The connection to Microsoft Exchange is unavailable. Outlook must be online or connected to complete this action.
+
+
+--------------------------------*End*------------------------------------------
+
+
+

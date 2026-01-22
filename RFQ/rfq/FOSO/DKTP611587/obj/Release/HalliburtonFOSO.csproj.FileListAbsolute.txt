@@ -1,0 +1,129 @@
+D:\.Net\Source Codes\Source Codes\FOSO\MFGDDBS001\bin\Release\Template\RFQ_FOSO_MailTemplate.html
+D:\.Net\Source Codes\Source Codes\FOSO\MFGDDBS001\bin\Release\RFQ-FOSO.dll.config
+D:\.Net\Source Codes\Source Codes\FOSO\MFGDDBS001\bin\Release\RFQ-FOSO.dll
+D:\.Net\Source Codes\Source Codes\FOSO\MFGDDBS001\bin\Release\RFQ-FOSO.pdb
+D:\.Net\Source Codes\Source Codes\FOSO\MFGDDBS001\bin\Release\RFQ-FOSO.dll.manifest
+D:\.Net\Source Codes\Source Codes\FOSO\MFGDDBS001\bin\Release\RFQ-FOSO.vsto
+D:\.Net\Source Codes\Source Codes\FOSO\MFGDDBS001\bin\Release\HtmlAgilityPack.dll
+D:\.Net\Source Codes\Source Codes\FOSO\MFGDDBS001\bin\Release\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+D:\.Net\Source Codes\Source Codes\FOSO\MFGDDBS001\bin\Release\Microsoft.Office.Tools.Outlook.dll
+D:\.Net\Source Codes\Source Codes\FOSO\MFGDDBS001\bin\Release\Microsoft.Office.Tools.Outlook.v4.0.Utilities.dll
+D:\.Net\Source Codes\Source Codes\FOSO\MFGDDBS001\bin\Release\Microsoft.Office.Tools.v4.0.Framework.dll
+D:\.Net\Source Codes\Source Codes\FOSO\MFGDDBS001\bin\Release\Microsoft.ReportViewer.Common.dll
+D:\.Net\Source Codes\Source Codes\FOSO\MFGDDBS001\bin\Release\Microsoft.ReportViewer.DataVisualization.dll
+D:\.Net\Source Codes\Source Codes\FOSO\MFGDDBS001\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\.Net\Source Codes\Source Codes\FOSO\MFGDDBS001\bin\Release\Microsoft.ReportViewer.WinForms.dll
+D:\.Net\Source Codes\Source Codes\FOSO\MFGDDBS001\bin\Release\Microsoft.VisualStudio.Tools.Applications.Runtime.dll
+D:\.Net\Source Codes\Source Codes\FOSO\MFGDDBS001\bin\Release\HtmlAgilityPack.pdb
+D:\.Net\Source Codes\Source Codes\FOSO\MFGDDBS001\bin\Release\HtmlAgilityPack.xml
+D:\.Net\Source Codes\Source Codes\FOSO\MFGDDBS001\bin\Release\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\.Net\Source Codes\Source Codes\FOSO\MFGDDBS001\bin\Release\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\.Net\Source Codes\Source Codes\FOSO\MFGDDBS001\bin\Release\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\.Net\Source Codes\Source Codes\FOSO\MFGDDBS001\bin\Release\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\.Net\Source Codes\Source Codes\FOSO\MFGDDBS001\bin\Release\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\.Net\Source Codes\Source Codes\FOSO\MFGDDBS001\bin\Release\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\.Net\Source Codes\Source Codes\FOSO\MFGDDBS001\bin\Release\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\.Net\Source Codes\Source Codes\FOSO\MFGDDBS001\bin\Release\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\.Net\Source Codes\Source Codes\FOSO\MFGDDBS001\bin\Release\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\.Net\Source Codes\Source Codes\FOSO\MFGDDBS001\bin\Release\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\.Net\Source Codes\Source Codes\FOSO\MFGDDBS001\obj\Release\HalliburtonFOSO.csproj.AssemblyReference.cache
+D:\.Net\Source Codes\Source Codes\FOSO\MFGDDBS001\obj\Release\HalliburtonRFQ.FOSOTemplate_Edior.resources
+D:\.Net\Source Codes\Source Codes\FOSO\MFGDDBS001\obj\Release\HalliburtonRFQ.HalliburtonFOSORibbon.resources
+D:\.Net\Source Codes\Source Codes\FOSO\MFGDDBS001\obj\Release\HalliburtonFOSO.Properties.Resources.resources
+D:\.Net\Source Codes\Source Codes\FOSO\MFGDDBS001\obj\Release\HalliburtonRFQ.Quote_Comparision.resources
+D:\.Net\Source Codes\Source Codes\FOSO\MFGDDBS001\obj\Release\HalliburtonRFQ.RequestApproval.resources
+D:\.Net\Source Codes\Source Codes\FOSO\MFGDDBS001\obj\Release\HalliburtonRFQ.RequestPart.resources
+D:\.Net\Source Codes\Source Codes\FOSO\MFGDDBS001\obj\Release\HalliburtonRFQ.SendRFQ.resources
+D:\.Net\Source Codes\Source Codes\FOSO\MFGDDBS001\obj\Release\HalliburtonRFQ.SendRFQ_FOSO.resources
+D:\.Net\Source Codes\Source Codes\FOSO\MFGDDBS001\obj\Release\HalliburtonRFQ.ViewRequest.resources
+D:\.Net\Source Codes\Source Codes\FOSO\MFGDDBS001\obj\Release\HalliburtonFOSO.csproj.GenerateResource.cache
+D:\.Net\Source Codes\Source Codes\FOSO\MFGDDBS001\obj\Release\HalliburtonFOSO.csproj.CoreCompileInputs.cache
+D:\.Net\Source Codes\Source Codes\FOSO\MFGDDBS001\obj\Release\Hallibur.9148ADD0.Up2Date
+D:\.Net\Source Codes\Source Codes\FOSO\MFGDDBS001\obj\Release\RFQ-FOSO.dll
+D:\.Net\Source Codes\Source Codes\FOSO\MFGDDBS001\obj\Release\RFQ-FOSO.pdb
+D:\.Net\Source Codes\Source Codes\FOSO\DKTP611587\bin\Release\Template\RFQ_FOSO_MailTemplate.html
+D:\.Net\Source Codes\Source Codes\FOSO\DKTP611587\bin\Release\RFQ-FOSO.dll.config
+D:\.Net\Source Codes\Source Codes\FOSO\DKTP611587\bin\Release\RFQ-FOSO.dll
+D:\.Net\Source Codes\Source Codes\FOSO\DKTP611587\bin\Release\RFQ-FOSO.pdb
+D:\.Net\Source Codes\Source Codes\FOSO\DKTP611587\bin\Release\RFQ-FOSO.dll.manifest
+D:\.Net\Source Codes\Source Codes\FOSO\DKTP611587\bin\Release\RFQ-FOSO.vsto
+D:\.Net\Source Codes\Source Codes\FOSO\DKTP611587\bin\Release\HtmlAgilityPack.dll
+D:\.Net\Source Codes\Source Codes\FOSO\DKTP611587\bin\Release\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+D:\.Net\Source Codes\Source Codes\FOSO\DKTP611587\bin\Release\Microsoft.Office.Tools.Outlook.dll
+D:\.Net\Source Codes\Source Codes\FOSO\DKTP611587\bin\Release\Microsoft.Office.Tools.Outlook.v4.0.Utilities.dll
+D:\.Net\Source Codes\Source Codes\FOSO\DKTP611587\bin\Release\Microsoft.Office.Tools.v4.0.Framework.dll
+D:\.Net\Source Codes\Source Codes\FOSO\DKTP611587\bin\Release\Microsoft.ReportViewer.Common.dll
+D:\.Net\Source Codes\Source Codes\FOSO\DKTP611587\bin\Release\Microsoft.ReportViewer.DataVisualization.dll
+D:\.Net\Source Codes\Source Codes\FOSO\DKTP611587\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\.Net\Source Codes\Source Codes\FOSO\DKTP611587\bin\Release\Microsoft.ReportViewer.WinForms.dll
+D:\.Net\Source Codes\Source Codes\FOSO\DKTP611587\bin\Release\Microsoft.VisualStudio.Tools.Applications.Runtime.dll
+D:\.Net\Source Codes\Source Codes\FOSO\DKTP611587\bin\Release\HtmlAgilityPack.pdb
+D:\.Net\Source Codes\Source Codes\FOSO\DKTP611587\bin\Release\HtmlAgilityPack.xml
+D:\.Net\Source Codes\Source Codes\FOSO\DKTP611587\bin\Release\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\.Net\Source Codes\Source Codes\FOSO\DKTP611587\bin\Release\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\.Net\Source Codes\Source Codes\FOSO\DKTP611587\bin\Release\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\.Net\Source Codes\Source Codes\FOSO\DKTP611587\bin\Release\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\.Net\Source Codes\Source Codes\FOSO\DKTP611587\bin\Release\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\.Net\Source Codes\Source Codes\FOSO\DKTP611587\bin\Release\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\.Net\Source Codes\Source Codes\FOSO\DKTP611587\bin\Release\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\.Net\Source Codes\Source Codes\FOSO\DKTP611587\bin\Release\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\.Net\Source Codes\Source Codes\FOSO\DKTP611587\bin\Release\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\.Net\Source Codes\Source Codes\FOSO\DKTP611587\bin\Release\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\.Net\Source Codes\Source Codes\FOSO\DKTP611587\obj\Release\HalliburtonFOSO.csproj.AssemblyReference.cache
+D:\.Net\Source Codes\Source Codes\FOSO\DKTP611587\obj\Release\HalliburtonRFQ.FOSOTemplate_Edior.resources
+D:\.Net\Source Codes\Source Codes\FOSO\DKTP611587\obj\Release\HalliburtonRFQ.HalliburtonFOSORibbon.resources
+D:\.Net\Source Codes\Source Codes\FOSO\DKTP611587\obj\Release\HalliburtonFOSO.Properties.Resources.resources
+D:\.Net\Source Codes\Source Codes\FOSO\DKTP611587\obj\Release\HalliburtonRFQ.Quote_Comparision.resources
+D:\.Net\Source Codes\Source Codes\FOSO\DKTP611587\obj\Release\HalliburtonRFQ.RequestApproval.resources
+D:\.Net\Source Codes\Source Codes\FOSO\DKTP611587\obj\Release\HalliburtonRFQ.RequestPart.resources
+D:\.Net\Source Codes\Source Codes\FOSO\DKTP611587\obj\Release\HalliburtonRFQ.SendRFQ.resources
+D:\.Net\Source Codes\Source Codes\FOSO\DKTP611587\obj\Release\HalliburtonRFQ.SendRFQ_FOSO.resources
+D:\.Net\Source Codes\Source Codes\FOSO\DKTP611587\obj\Release\HalliburtonRFQ.ViewRequest.resources
+D:\.Net\Source Codes\Source Codes\FOSO\DKTP611587\obj\Release\HalliburtonFOSO.csproj.GenerateResource.cache
+D:\.Net\Source Codes\Source Codes\FOSO\DKTP611587\obj\Release\HalliburtonFOSO.csproj.CoreCompileInputs.cache
+D:\.Net\Source Codes\Source Codes\FOSO\DKTP611587\obj\Release\Hallibur.9148ADD0.Up2Date
+D:\.Net\Source Codes\Source Codes\FOSO\DKTP611587\obj\Release\RFQ-FOSO.dll
+D:\.Net\Source Codes\Source Codes\FOSO\DKTP611587\obj\Release\RFQ-FOSO.pdb
+D:\repo\rfq\FOSO\DKTP611587\bin\Release\Template\RFQ_FOSO_MailTemplate.html
+D:\repo\rfq\FOSO\DKTP611587\bin\Release\RFQ-FOSO.dll.config
+D:\repo\rfq\FOSO\DKTP611587\bin\Release\RFQ-FOSO.dll
+D:\repo\rfq\FOSO\DKTP611587\bin\Release\RFQ-FOSO.pdb
+D:\repo\rfq\FOSO\DKTP611587\bin\Release\RFQ-FOSO.dll.manifest
+D:\repo\rfq\FOSO\DKTP611587\bin\Release\RFQ-FOSO.vsto
+D:\repo\rfq\FOSO\DKTP611587\bin\Release\HtmlAgilityPack.dll
+D:\repo\rfq\FOSO\DKTP611587\bin\Release\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+D:\repo\rfq\FOSO\DKTP611587\bin\Release\Microsoft.Office.Tools.Outlook.dll
+D:\repo\rfq\FOSO\DKTP611587\bin\Release\Microsoft.Office.Tools.Outlook.v4.0.Utilities.dll
+D:\repo\rfq\FOSO\DKTP611587\bin\Release\Microsoft.Office.Tools.v4.0.Framework.dll
+D:\repo\rfq\FOSO\DKTP611587\bin\Release\Microsoft.ReportViewer.Common.dll
+D:\repo\rfq\FOSO\DKTP611587\bin\Release\Microsoft.ReportViewer.DataVisualization.dll
+D:\repo\rfq\FOSO\DKTP611587\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\repo\rfq\FOSO\DKTP611587\bin\Release\Microsoft.ReportViewer.WinForms.dll
+D:\repo\rfq\FOSO\DKTP611587\bin\Release\Microsoft.VisualStudio.Tools.Applications.Runtime.dll
+D:\repo\rfq\FOSO\DKTP611587\bin\Release\HtmlAgilityPack.pdb
+D:\repo\rfq\FOSO\DKTP611587\bin\Release\HtmlAgilityPack.xml
+D:\repo\rfq\FOSO\DKTP611587\bin\Release\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\repo\rfq\FOSO\DKTP611587\bin\Release\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\repo\rfq\FOSO\DKTP611587\bin\Release\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\repo\rfq\FOSO\DKTP611587\bin\Release\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\repo\rfq\FOSO\DKTP611587\bin\Release\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\repo\rfq\FOSO\DKTP611587\bin\Release\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\repo\rfq\FOSO\DKTP611587\bin\Release\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\repo\rfq\FOSO\DKTP611587\bin\Release\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\repo\rfq\FOSO\DKTP611587\bin\Release\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\repo\rfq\FOSO\DKTP611587\bin\Release\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\repo\rfq\FOSO\DKTP611587\obj\Release\HalliburtonFOSO.csproj.AssemblyReference.cache
+D:\repo\rfq\FOSO\DKTP611587\obj\Release\HalliburtonRFQ.FOSOTemplate_Edior.resources
+D:\repo\rfq\FOSO\DKTP611587\obj\Release\HalliburtonRFQ.HalliburtonFOSORibbon.resources
+D:\repo\rfq\FOSO\DKTP611587\obj\Release\HalliburtonFOSO.Properties.Resources.resources
+D:\repo\rfq\FOSO\DKTP611587\obj\Release\HalliburtonRFQ.Quote_Comparision.resources
+D:\repo\rfq\FOSO\DKTP611587\obj\Release\HalliburtonRFQ.RequestApproval.resources
+D:\repo\rfq\FOSO\DKTP611587\obj\Release\HalliburtonRFQ.RequestPart.resources
+D:\repo\rfq\FOSO\DKTP611587\obj\Release\HalliburtonRFQ.SendRFQ.resources
+D:\repo\rfq\FOSO\DKTP611587\obj\Release\HalliburtonRFQ.SendRFQ_FOSO.resources
+D:\repo\rfq\FOSO\DKTP611587\obj\Release\HalliburtonRFQ.ViewRequest.resources
+D:\repo\rfq\FOSO\DKTP611587\obj\Release\HalliburtonFOSO.csproj.GenerateResource.cache
+D:\repo\rfq\FOSO\DKTP611587\obj\Release\HalliburtonFOSO.csproj.CoreCompileInputs.cache
+D:\repo\rfq\FOSO\DKTP611587\obj\Release\Hallibur.9148ADD0.Up2Date
+D:\repo\rfq\FOSO\DKTP611587\obj\Release\RFQ-FOSO.dll
+D:\repo\rfq\FOSO\DKTP611587\obj\Release\RFQ-FOSO.pdb

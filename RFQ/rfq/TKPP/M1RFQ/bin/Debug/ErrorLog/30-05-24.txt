@@ -1,0 +1,30 @@
+-----------Exception Details on  30-05-2024 00:41:47-----------------
+--------------------------------*Start*----------------------------------------
+Logged At: 30-05-2024 00:41:47
+
+Error: SqlException
+
+Error from : D:\.Net\Source Codes\Source Codes\TKPP\HalliburtonRFQ\HalliburtonRibbon.cs On 2127
+
+Error Message: Execution Timeout Expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  30-05-2024 00:51:29-----------------
+--------------------------------*Start*----------------------------------------
+Logged At: 30-05-2024 00:51:29
+
+Error: SqlException
+
+Error from : D:\.Net\Source Codes\Source Codes\TKPP\HalliburtonRFQ\HalliburtonRibbon.cs On 2127
+
+Error Message: Execution Timeout Expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+
+
+--------------------------------*End*------------------------------------------
+
+
+

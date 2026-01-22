@@ -1,0 +1,254 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>
+        pp Working file
+    </title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style type="text/css">
+        body {
+            margin-left: 5px;
+            font-size: 13px;
+            font-family: 'Arial',sans-serif;
+        }
+
+        .white {
+            color: white;
+        }
+
+        .content-text {
+            line-height: 0;
+        }
+
+        .red {
+            color: red;
+        }
+
+        .table td, th {
+            border: 1px solid #736c6c;
+            text-align: center;
+            padding: 0px 0px;
+            min-width: 30px;
+        }
+
+        .vendor td {
+            border-collapse: collapse;
+            text-align: left;
+            padding: 0px;
+        }
+    </style>
+</head>
+<body>
+    <table border="0" class="vendor" cellpadding="0" cellspacing="0" lang="en" style="width:100.0%;height:100%">
+        <tr>
+            <td>
+                <!--<span class="MsoNormal content-text"><b>Dear Vendors,</b></span>-->
+                <b>Dear Supplier,</b>
+            </td>
+        </tr>
+        <br />
+        <tr>
+            <td valign="top" align="left" style="padding-left:0px">
+                <span class="content-text">
+                    I have shared the BOM through HSN.
+                </span>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" align="left" style="padding-left:0px">
+                <span class="content-text">
+                    Please review and quote by deadline in both Excel and pdf file in in UOM requested.
+                </span>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" align="left" style="padding-left:0px">
+                <span class="content-text">
+                    Consider RM availability especially for those high qty orders.
+                </span>
+            </td>
+        </tr>
+        <tr>
+            <td style="border: none;background: white;padding: 3px 0 0px 0px;">
+                <br>
+                <span class="cnt-txt">Please quote with price break as follows:</span>
+            </td>
+        </tr>
+        <tr>
+            <td style="border: none;background: white;padding: 3px 0 0px 0px;">
+                <span class="cnt-txt">Qty 1 - 3</span>
+            </td>
+        </tr>
+        <tr>
+            <td style="border: none;background: white;padding: 3px 0 0px 0px;">
+                <span class="cnt-txt">Qty 4 - 9</span>
+            </td>
+        </tr>
+        <tr>
+            <td style="border: none;background: white;padding: 3px 0 0px 0px;">
+                <span class="cnt-txt">Qty 10 and above</span>
+            </td>
+        </tr>
+        <br />
+        <tr>
+            <td valign="top">
+                <h3 style="color:red">RFQ Deadline: {DDMMYY}</h3>
+            </td>
+        </tr>
+    </table>
+    <table class="table" id="TK_Table" style="font-family: arial, sans-serif;border-collapse: collapse;width: 100%;font-size: 11px;">
+        <thead>
+            <tr>
+                <th bgcolor="#d0cece" rowspan="3">
+                    <span class="">Batch</span>
+                </th>
+                <th bgcolor="#d0cece" rowspan="3">
+                    <span class="">PIC </span>
+                </th>
+                <th bgcolor="#d0cece" rowspan="3">
+                    <span class="thead">Part Number</span>
+                </th>
+                <th bgcolor="#d0cece" rowspan="3">
+                    <span class="">Part Description</span>
+                </th>
+                <th bgcolor="#d0cece" rowspan="3">
+                    <span class="">Quantity</span>
+                </th>
+                <th bgcolor="red" class="white" colspan="15">Mandatory to fill up</th>
+                <th bgcolor="#002060" class="white" style="border: 1px solid #002060;"><span class=""></span> </th>
+            </tr>
+            <tr>
+                <th bgcolor="#002060" class="white" rowspan="2">
+                    <span class="thead">UOM</span>
+                </th>
+                <th bgcolor="#002060" class="white" rowspan="2">
+                    <span class="thead">COO</span>
+                </th>
+                <th bgcolor="#002060" class="white" rowspan="2">
+                    <span class="thead">Conversion Qty</span>
+                </th>
+                <th bgcolor="#002060" class="white" rowspan="2">
+                    <span class="thead">Lead Time in days</span>
+                </th>
+                <th bgcolor="#002060" class="white" rowspan="2">
+                    <span class="thead">Quotation # </span>
+                </th>
+                <th bgcolor="#002060" class="white" rowspan="2">
+                    <span class="thead">Currency </span>
+                </th>
+                <th bgcolor="#002060" class="white" colspan="9">
+                    <span class="">PRICE BREAKS </span>
+                </th>
+                <th bgcolor="#002060" rowspan="1" style="border: 1px solid #002060;">
+                    <span class=""></span>
+                </th>
+            </tr>
+            <tr>
+                <th bgcolor="#002060" class="white">
+                    <span class="thead">1 </span>
+                </th>
+                <th bgcolor="#002060" class="white">
+                    <span class="thead">2 </span>
+                </th>
+                <th bgcolor="#002060" class="white">
+                    <span class="thead">3</span>
+                </th>
+                <th bgcolor="#002060" class="white">
+                    <span class="thead">4</span>
+                </th>
+                <th bgcolor="#002060" class="white">
+                    <span class="thead">5</span>
+                </th>
+                <th bgcolor="#002060" class="white">
+                    <span class="thead">10</span>
+                </th>
+                <th bgcolor="#002060" class="white">
+                    <span class="thead">25</span>
+                </th>
+                <th bgcolor="#002060" class="white">
+                    <span class="thead">50</span>
+                </th>
+                <th bgcolor="#002060" class="white">
+                    <span class="thead">100</span>
+                </th>
+                <th bgcolor="#002060" class="white" style="border: 1px solid #002060;">
+                    <span class="thead" style="position: relative;top: -22px;">Remarks </span>
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            {RequestPart}
+            <!-- 15 column data-->
+        </tbody>
+    </table>
+
+    <table border="0" style="width:100%;">
+        <tbody>
+            <tr>
+                <td style="vertical-align:text-top">
+                    <b>Terms and Conditions of Quote:</b>
+                </td>
+            </tr>
+
+            <tr>
+                <td style="vertical-align:text-top">
+                    <span style="color:red">1. Have to submit quotation in Pdf and fill up the mandatory field in email body </span>
+                </td>
+            </tr>
+            <tr>
+                <td style="vertical-align:text-top">
+                    <span style="color:red">2. Please update the price scales table in the reply email for the appropriate quantities. </span>
+                </td>
+            </tr>
+            <tr>
+                <td style="vertical-align:text-top">
+                    <span>3. Quote response is required by the RFQ deadline indicated. Otherwise, please send an official request of extension indicating the new date. Any quotes sent after the deadline without official request of extension will not be taken into consideration. </span>
+                </td>
+            </tr>
+            <tr>
+                <td style="vertical-align:text-top">
+                    <span> 4. Quote validity should be minimum one (1) year or till end of year from the date of quote submission. The validity date on your quotation will not be taken for consideration if less than one (1) year.</span>
+                </td>
+            </tr>
+            <tr>
+                <td style="vertical-align:text-top">
+                    <span> 5. Attached drawings/BOM with RFQ is uncontrolled.</span>
+                </td>
+            </tr>
+            <tr>
+                <td style="vertical-align:text-top">
+                    <span>6. If Part is in Matched Set (Ring/Cylinder), please quote per MST indicated in UOM & Convertion qty (e.g. if the quote in 1 MST = 2 EA fill up UOM MST and conversion qty 2) </span>
+                </td>
+            </tr>
+            <tr>
+                <td style="vertical-align:text-top">
+                    <span> 7. Partial quotation is allowed.</span>
+                </td>
+            </tr>
+            <tr>
+                <td style="vertical-align:text-top">
+                    <span>8. Unsuccessful Quotes/Bids will not be notified. </span>
+                </td>
+            </tr>
+            <tr>
+                <td style="vertical-align:text-top">
+                    <span> 9. Lead time <span class="red">MUST NOT EXCEED more than <u>56 days</u></span> (8 weeks calendar days) ETA Singapore</span>
+                </td>
+            </tr>
+            <tr>
+                <td style="vertical-align:text-top">
+                    <span> 10) Reference Document is base on the Approved vendor list on the  Engineering Specifications. We will only send the new specification if there is any changes.</span>
+                </td>
+            </tr>
+            <tr>
+                <td style="vertical-align:text-top">
+                    <a href="http://www.halliburton.com/public/pubsdata/related_docs/supplierethicsletter.pdf" class="content-text" target="_blank">Please get with RFQ requestor if you could not access the Supplier Ethics letter</a>
+                </td>
+            </tr>
+        </tbody>
+        <br>
+        {Signature}
+    </table>
+</body>
+</html>

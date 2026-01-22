@@ -1,0 +1,45 @@
+-----------Exception Details on  04-06-2024 02:28:04-----------------
+--------------------------------*Start*----------------------------------------
+Logged At: 04-06-2024 02:28:04
+
+Error: InvalidOperationException
+
+Error from : D:\.Net\Source Codes\Source Codes\TKPP\HalliburtonRFQ-TKPP\HalliburtonRibbon.cs On 2198
+
+Error Message: The source contains no DataRows.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  04-06-2024 02:28:54-----------------
+--------------------------------*Start*----------------------------------------
+Logged At: 04-06-2024 02:28:54
+
+Error: InvalidOperationException
+
+Error from : D:\.Net\Source Codes\Source Codes\TKPP\HalliburtonRFQ-TKPP\HalliburtonRibbon.cs On 2198
+
+Error Message: The source contains no DataRows.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  04-06-2024 19:02:48-----------------
+--------------------------------*Start*----------------------------------------
+Logged At: 04-06-2024 19:02:48
+
+Error: SqlException
+
+Error from : D:\.Net\Source Codes\Source Codes\TKPP\HalliburtonRFQ-TKPP\HalliburtonRibbon.cs On 2175
+
+Error Message: Column 'tbl_PP_RFQ_Header.OrderedPart' is invalid in the select list because it is not contained in either an aggregate function or the GROUP BY clause.
+
+
+--------------------------------*End*------------------------------------------
+
+
+

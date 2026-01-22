@@ -1,0 +1,345 @@
+-----------Exception Details on  06-03-2025 17:11:36-----------------
+--------------------------------*Start*----------------------------------------
+Logged At: 06-03-2025 17:11:36
+
+Error: InvalidOperationException
+
+Error from : C:\Users\Dell\Documents\RFQ-Hallilburton\RFQ\rfq\TKPP\HalliburtonRFQ-TKPP\HalliburtonRibbon.cs On 4351
+
+Error Message: ExecuteNonQuery: Connection property has not been initialized.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  06-03-2025 17:32:12-----------------
+--------------------------------*Start*----------------------------------------
+Logged At: 06-03-2025 17:32:12
+
+Error: ArgumentException
+
+Error from : C:\Users\Dell\Documents\RFQ-Hallilburton\RFQ\rfq\TKPP\HalliburtonRFQ-TKPP\HalliburtonRibbon.cs On 4020
+
+Error Message: Column 'Deadline' does not belong to table .
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  06-03-2025 17:35:59-----------------
+--------------------------------*Start*----------------------------------------
+Logged At: 06-03-2025 17:35:59
+
+Error: ArgumentException
+
+Error from : C:\Users\Dell\Documents\RFQ-Hallilburton\RFQ\rfq\TKPP\HalliburtonRFQ-TKPP\HalliburtonRibbon.cs On 4020
+
+Error Message: Column 'Deadline' does not belong to table .
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  06-03-2025 17:39:30-----------------
+--------------------------------*Start*----------------------------------------
+Logged At: 06-03-2025 17:39:30
+
+Error: ArgumentException
+
+Error from : C:\Users\Dell\Documents\RFQ-Hallilburton\RFQ\rfq\TKPP\HalliburtonRFQ-TKPP\HalliburtonRibbon.cs On 4020
+
+Error Message: Column 'Deadline' does not belong to table .
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  06-03-2025 17:43:07-----------------
+--------------------------------*Start*----------------------------------------
+Logged At: 06-03-2025 17:43:07
+
+Error: InvalidOperationException
+
+Error from : C:\Users\Dell\Documents\RFQ-Hallilburton\RFQ\rfq\TKPP\HalliburtonRFQ-TKPP\HalliburtonRibbon.cs On 4351
+
+Error Message: ExecuteNonQuery: Connection property has not been initialized.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  06-03-2025 17:47:31-----------------
+--------------------------------*Start*----------------------------------------
+Logged At: 06-03-2025 17:47:31
+
+Error: InvalidOperationException
+
+Error from : C:\Users\Dell\Documents\RFQ-Hallilburton\RFQ\rfq\TKPP\HalliburtonRFQ-TKPP\HalliburtonRibbon.cs On 4351
+
+Error Message: ExecuteNonQuery: Connection property has not been initialized.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  06-03-2025 17:53:54-----------------
+--------------------------------*Start*----------------------------------------
+Logged At: 06-03-2025 17:53:54
+
+Error: IOException
+
+Error from : C:\Users\Dell\Documents\RFQ-Hallilburton\RFQ\rfq\TKPP\HalliburtonRFQ-TKPP\HalliburtonRibbon.cs On 2157
+
+Error Message: The process cannot access the file 'C:\Users\Public\Documents\RFQ Tool - TKPP.xlsx' because it is being used by another process.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  06-03-2025 17:54:48-----------------
+--------------------------------*Start*----------------------------------------
+Logged At: 06-03-2025 17:54:48
+
+Error: InvalidOperationException
+
+Error from : C:\Users\Dell\Documents\RFQ-Hallilburton\RFQ\rfq\TKPP\HalliburtonRFQ-TKPP\HalliburtonRibbon.cs On 4351
+
+Error Message: ExecuteNonQuery: Connection property has not been initialized.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  06-03-2025 17:59:40-----------------
+--------------------------------*Start*----------------------------------------
+Logged At: 06-03-2025 17:59:40
+
+Error: InvalidCastException
+
+Error from : C:\Users\Dell\Documents\RFQ-Hallilburton\RFQ\rfq\TKPP\HalliburtonRFQ-TKPP\HalliburtonRibbon.cs On 4020
+
+Error Message: Unable to cast object of type 'System.DBNull' to type 'System.Data.DataRow'.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  06-03-2025 18:00:18-----------------
+--------------------------------*Start*----------------------------------------
+Logged At: 06-03-2025 18:00:18
+
+Error: InvalidCastException
+
+Error from : C:\Users\Dell\Documents\RFQ-Hallilburton\RFQ\rfq\TKPP\HalliburtonRFQ-TKPP\HalliburtonRibbon.cs On 4020
+
+Error Message: Unable to cast object of type 'System.DBNull' to type 'System.Data.DataRow'.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  06-03-2025 18:01:11-----------------
+--------------------------------*Start*----------------------------------------
+Logged At: 06-03-2025 18:01:11
+
+Error: InvalidCastException
+
+Error from : C:\Users\Dell\Documents\RFQ-Hallilburton\RFQ\rfq\TKPP\HalliburtonRFQ-TKPP\HalliburtonRibbon.cs On 4020
+
+Error Message: Unable to cast object of type 'System.DBNull' to type 'System.String'.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  06-03-2025 18:04:17-----------------
+--------------------------------*Start*----------------------------------------
+Logged At: 06-03-2025 18:04:17
+
+Error: InvalidOperationException
+
+Error from : C:\Users\Dell\Documents\RFQ-Hallilburton\RFQ\rfq\TKPP\HalliburtonRFQ-TKPP\HalliburtonRibbon.cs On 4351
+
+Error Message: ExecuteNonQuery: Connection property has not been initialized.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  06-03-2025 18:14:32-----------------
+--------------------------------*Start*----------------------------------------
+Logged At: 06-03-2025 18:14:32
+
+Error: InvalidOperationException
+
+Error from : C:\Users\Dell\Documents\RFQ-Hallilburton\RFQ\rfq\TKPP\HalliburtonRFQ-TKPP\HalliburtonRibbon.cs On 4354
+
+Error Message: ExecuteNonQuery: Connection property has not been initialized.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  06-03-2025 18:15:33-----------------
+--------------------------------*Start*----------------------------------------
+Logged At: 06-03-2025 18:15:33
+
+Error: InvalidOperationException
+
+Error from : C:\Users\Dell\Documents\RFQ-Hallilburton\RFQ\rfq\TKPP\HalliburtonRFQ-TKPP\HalliburtonRibbon.cs On 4354
+
+Error Message: ExecuteNonQuery: Connection property has not been initialized.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  06-03-2025 18:17:30-----------------
+--------------------------------*Start*----------------------------------------
+Logged At: 06-03-2025 18:17:30
+
+Error: InvalidOperationException
+
+Error from : C:\Users\Dell\Documents\RFQ-Hallilburton\RFQ\rfq\TKPP\HalliburtonRFQ-TKPP\HalliburtonRibbon.cs On 4354
+
+Error Message: ExecuteNonQuery: Connection property has not been initialized.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  06-03-2025 18:30:53-----------------
+--------------------------------*Start*----------------------------------------
+Logged At: 06-03-2025 18:30:53
+
+Error: InvalidOperationException
+
+Error from : C:\Users\Dell\Documents\RFQ-Hallilburton\RFQ\rfq\TKPP\HalliburtonRFQ-TKPP\HalliburtonRibbon.cs On 4354
+
+Error Message: ExecuteNonQuery: Connection property has not been initialized.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  06-03-2025 18:39:53-----------------
+--------------------------------*Start*----------------------------------------
+Logged At: 06-03-2025 18:39:53
+
+Error: IOException
+
+Error from : C:\Users\Dell\Documents\RFQ-Hallilburton\RFQ\rfq\TKPP\HalliburtonRFQ-TKPP\HalliburtonRibbon.cs On 2158
+
+Error Message: The process cannot access the file 'C:\Users\Public\Documents\RFQ Tool - TKPP.xlsx' because it is being used by another process.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  06-03-2025 18:43:20-----------------
+--------------------------------*Start*----------------------------------------
+Logged At: 06-03-2025 18:43:20
+
+Error: InvalidOperationException
+
+Error from : C:\Users\Dell\Documents\RFQ-Hallilburton\RFQ\rfq\TKPP\HalliburtonRFQ-TKPP\HalliburtonRibbon.cs On 4363
+
+Error Message: ExecuteNonQuery: Connection property has not been initialized.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  06-03-2025 19:00:16-----------------
+--------------------------------*Start*----------------------------------------
+Logged At: 06-03-2025 19:00:16
+
+Error: InvalidOperationException
+
+Error from : C:\Users\Dell\Documents\RFQ-Hallilburton\RFQ\rfq\TKPP\HalliburtonRFQ-TKPP\HalliburtonRibbon.cs On 4363
+
+Error Message: ExecuteNonQuery: Connection property has not been initialized.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  06-03-2025 19:11:48-----------------
+--------------------------------*Start*----------------------------------------
+Logged At: 06-03-2025 19:11:48
+
+Error: InvalidOperationException
+
+Error from : C:\Users\Dell\Documents\RFQ-Hallilburton\RFQ\rfq\TKPP\HalliburtonRFQ-TKPP\HalliburtonRibbon.cs On 4365
+
+Error Message: ExecuteNonQuery: Connection property has not been initialized.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  06-03-2025 19:25:14-----------------
+--------------------------------*Start*----------------------------------------
+Logged At: 06-03-2025 19:25:14
+
+Error: InvalidOperationException
+
+Error from : C:\Users\Dell\Documents\RFQ-Hallilburton\RFQ\rfq\TKPP\HalliburtonRFQ-TKPP\HalliburtonRibbon.cs On 4385
+
+Error Message: ExecuteNonQuery: Connection property has not been initialized.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  06-03-2025 19:36:31-----------------
+--------------------------------*Start*----------------------------------------
+Logged At: 06-03-2025 19:36:31
+
+Error: IOException
+
+Error from : C:\Users\Dell\Documents\RFQ-Hallilburton\RFQ\rfq\TKPP\HalliburtonRFQ-TKPP\HalliburtonRibbon.cs On 2158
+
+Error Message: The process cannot access the file 'C:\Users\Public\Documents\RFQ Tool - TKPP.xlsx' because it is being used by another process.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  06-03-2025 19:37:07-----------------
+--------------------------------*Start*----------------------------------------
+Logged At: 06-03-2025 19:37:07
+
+Error: InvalidOperationException
+
+Error from : C:\Users\Dell\Documents\RFQ-Hallilburton\RFQ\rfq\TKPP\HalliburtonRFQ-TKPP\HalliburtonRibbon.cs On 4385
+
+Error Message: ExecuteNonQuery: Connection property has not been initialized.
+
+
+--------------------------------*End*------------------------------------------
+
+
+

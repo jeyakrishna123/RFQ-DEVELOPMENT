@@ -1,0 +1,241 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>FO SO RFQ Sample</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        body {
+            /*margin-left: 10px;*/
+            color: #212529;
+            font-size: 13px;
+        }
+
+        hr.line1 {
+            border: 3px solid black;
+        }
+
+        hr.line2 {
+            border: 1px solid #b0b3b8;
+        }
+
+        span.msg {
+            color: red;
+            text-decoration: underline;
+            font-weight: bold;
+        }
+
+        span.msgonly {
+            color: red;
+            font-weight: bold;
+        }
+
+        span.cnt-txt {
+            color: #212529;
+        }
+
+        span.pn {
+            color: blue;
+            text-decoration: underline;
+            font-weight: bold;
+        }
+
+        .deadline {
+            color: red;
+            font-size: 25px;
+            font-weight: bold;
+            text-align: right;
+            font-family: Calibri;
+        }
+
+        .border {
+            display: inline-block;
+            height: 40px;
+        }
+
+        .note {
+            font-family: Arial;
+            font-size: 20px;
+            font-weight: bold;
+        }
+
+        ol {
+            font-size: 20px;
+            color: #36648b;
+        }
+
+        .desc {
+            font-size: 22px;
+            color: #36648b;
+            font-family: calibri;
+        }
+
+        a {
+            color: #0b3fdb;
+            text-decoration: underline;
+        }
+
+        h5, h4, h3 {
+            font-weight: bold;
+        }
+
+        .reducespaceinrows {
+            margin: 0px;
+        }
+
+        table {
+            font-family: arial, sans-serif;
+            border-collapse: collapse;
+            width: 100%;
+        }
+        .maxW {
+            width: 800px !important;
+        }
+        .red {
+            color: red;
+        }
+
+        td, th {
+            border: solid #dddddd 1.0pt;
+            padding: 8px;
+        }
+    </style>
+</head>
+<body>
+
+    <table width="100%" border="0">
+        <tr> <th align="left" style="border: none;background: white;padding: 3px 0 0px 0px;"><span class="cnt-txt">Dear Supplier,</span></th></tr>
+        <tr>
+            <td align="left" style="border: none;background: white;padding: 3px 0 0px 0px;">
+                <span class="cnt-txt">
+
+                    Please quote your best price and delivery lead time for the following by filling in the table below. Please attach a excel sheet and/or PDF format quotation by
+                </span> <span class="msg">{DDMMYY}</span>
+            </td>
+        </tr>
+        <tr>
+            <td align="left" style="border: none;background: white;padding: 3px 0 0px 0px;">
+
+                <span class="" style="color: blue;"><u>Kindly please retrieve the Drawing through HSN</u></span>
+            </td>
+        </tr>
+        <tr>
+            <td align="left" style="border: none;background: white;padding: 3px 0 0px 0px;">
+                <br>
+                <span class="cnt-txt">Please quote with price break as follows:</span>
+            </td>
+        </tr>
+        <tr>
+            <td align="left" style="border: none;background: white;padding: 3px 0 0px 0px;">
+                <span class="cnt-txt">Qty 1 - 3</span>
+            </td>
+        </tr>
+        <tr>
+            <td align="left" style="border: none;background: white;padding: 3px 0 0px 0px;">
+                <span class="cnt-txt">Qty 4 - 9</span>
+            </td>
+        </tr>
+        <tr>
+            <td align="left" style="border: none;background: white;padding: 3px 0 0px 0px;">
+                <span class="cnt-txt">Qty 10 & above</span>
+            </td>
+        </tr>
+    </table>
+
+    <br>
+
+    <table class="table" id="FOSO_Table" style="font-family: arial, sans-serif;border-collapse: collapse;width: 100%;font-size: 11px;">
+
+        <thead>
+            <tr>
+
+                <th bgcolor="white" align="center" class="white" colspan="9" style="border-top: none;border-left: none;"><b><span class=""></span></b></th>
+                <th bgcolor="red" align="center" class="white" colspan="7"><b><span class="">MANDATORY FIELDS</span></b></th>
+                <th bgcolor="#fff" class="white" style="border-top: none;border-right: none;"><span class=""></span> </th>
+            </tr>
+            <tr class="tr" id="tr">
+                <th bgcolor="#ffff00" valign="middle"><span class="thead">Material&nbsp;Number</span></th>
+                <th bgcolor="#ffff00" valign="middle"><span class="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Description&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></th>
+                <th bgcolor="#ffff00" valign="middle" width="720">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Scope&nbsp;of&nbsp;Work&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
+                <th bgcolor="#ffff00" valign="middle"><span class="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Drawing&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></th>
+                <th bgcolor="#ffff00" valign="middle"><span class="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;REV&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></th>
+                <th bgcolor="#ffff00" valign="middle"><span class="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LG&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></th>
+                <th bgcolor="#ffff00" valign="middle"><span class="">Material&nbsp;Assigned</span></th>
+                <th bgcolor="#ffff00" valign="middle"><span class="thead">Country&nbsp;of&nbsp;Origin</span></th>
+                <th bgcolor="#ffff00" valign="middle"><span class="thead">Order&nbsp;Quantity</span></th>
+                <th bgcolor="#ffff00" class="red"><span class="thead">Quotation&nbsp;number</span></th>
+                <th bgcolor="#ffff00" class="red"><span class="thead">Lead&nbsp;Time&nbsp;(days)</span></th>
+                <th bgcolor="#ffff00" class="red"><span class="thead">&nbsp;&nbsp;&nbsp;UOM&nbsp;&nbsp;&nbsp;&nbsp;</span></th>
+                <th bgcolor="#ffff00" class="red"><span class="thead">Currency</span></th>
+                <th bgcolor="#ffff00" class="red"><span class="thead">Price Scale (1-3)</span></th>
+                <th bgcolor="#ffff00" class="red"><span class="thead">Price Scale (4-9)</span></th>
+                <th bgcolor="#ffff00" class="red"><span class="thead">Price Scale (>=10)</span></th>
+                <th bgcolor="#ffff00"><span class="thead">Remarks</span></th>
+            </tr>
+
+        </thead>
+        {RequestPart}
+    </table>
+    <br>
+    <div><h5><span class="msgonly">**PLEASE REPLY THIS RFQ WITHIN THE DEADLINE STATED***</span></h5></div>
+
+
+    <table width="100%" border="0">
+        <tr> <th align="left" style="border: none;background: white;padding: 3px 0 0px 0px;">Note:</th></tr>
+        <tr>
+            <td align="left" style="border: none;background: white;padding: 3px 0 0px 0px;">
+                <span class="msgonly">
+                    1. Please update the price scales table in the reply email for the appropriate quantities and respective prices.
+                </span>
+            </td>
+        </tr>
+        <tr>
+            <td align="left" style="border: none;background: white;padding: 3px 0 0px 0px;">
+                <span class="cnt-txt"> 2. Raw material is provided by HAL.</span>
+            </td>
+        </tr>
+        <tr>
+            <td align="left" style="border: none;background: white;padding: 3px 0 0px 0px;">
+                <span class="cnt-txt">
+                    3. Attached drawings with RFQ is uncontrolled.
+                </span>
+            </td>
+        </tr>
+        <tr>
+            <td align="left" style="border: none;background: white;padding: 3px 0 0px 0px;">
+                <span class="cnt-txt">
+                    4. Unsuccessful Quotes/Bids will not be notified.
+                </span>
+            </td>
+        </tr>
+        <tr>
+            <td align="left" style="border: none;background: white;padding: 3px 0 0px 0px;">
+                <span class="cnt-txt">
+                    5. Unless otherwise stated in the job scope, please quote in EA (each). When quoting in MST, please indicate in Remarks column “1 MST = xx EA”
+                </span>
+            </td>
+        </tr>
+        <tr>
+            <td align="left" style="border: none;background: white;padding: 3px 0 0px 0px;">
+                <span class="cnt-txt">
+                    6. Quote validity should be minimum One (1) Year from the date of Submission of Quotation. The quote validity on the quotation will not be taken for consideration if it is less than a year.
+                </span>
+            </td>
+        </tr>
+        <tr>
+            <td align="left" style="border: none;background: white;padding: 3px 0 0px 0px;">
+                <span class="cnt-txt">
+                    7. Note: Expected lead time for Farm-out parts is 14 days for all material grade. Please indicate in your Quote.
+                </span>
+            </td>
+        </tr>
+        <tr>
+            <td align="left" style="border: none;background: white;padding: 3px 0 0px 0px;">
+                <a href="http://www.halliburton.com/public/pubsdata/related_docs/supplierethicsletter.pdf">A copy of the Halliburton Supplier Ethics Letter per link: https://www.halliburton.com/public/pubsdata/related_docs/supplierethicsletter.pdf) with RFQ (For Your Reading). Please get with RFQ requestor if you ane not able to access the Supplier Ethics letter.</a>
+            </td>
+        </tr>
+        <br>
+        {Signature}
+    </table>
+</body>
+</html>

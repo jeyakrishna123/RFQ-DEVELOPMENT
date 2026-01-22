@@ -1,0 +1,231 @@
+E:\Prakash\Ongoing\OCS\RFQ\HalliburtonRFQ\HalliburtonRFQ\bin\Release\HalliburtonRFQ.dll
+E:\Prakash\Ongoing\OCS\RFQ\HalliburtonRFQ\HalliburtonRFQ\bin\Release\HalliburtonRFQ.pdb
+E:\Prakash\Ongoing\OCS\RFQ\HalliburtonRFQ\HalliburtonRFQ\bin\Release\HalliburtonRFQ.dll.manifest
+E:\Prakash\Ongoing\OCS\RFQ\HalliburtonRFQ\HalliburtonRFQ\bin\Release\HalliburtonRFQ.vsto
+E:\Prakash\Ongoing\OCS\RFQ\HalliburtonRFQ\HalliburtonRFQ\bin\Release\Microsoft.Office.Tools.Common.dll
+E:\Prakash\Ongoing\OCS\RFQ\HalliburtonRFQ\HalliburtonRFQ\bin\Release\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+E:\Prakash\Ongoing\OCS\RFQ\HalliburtonRFQ\HalliburtonRFQ\bin\Release\Microsoft.Office.Tools.dll
+E:\Prakash\Ongoing\OCS\RFQ\HalliburtonRFQ\HalliburtonRFQ\bin\Release\Microsoft.Office.Tools.Outlook.dll
+E:\Prakash\Ongoing\OCS\RFQ\HalliburtonRFQ\HalliburtonRFQ\bin\Release\Microsoft.Office.Tools.Outlook.v4.0.Utilities.dll
+E:\Prakash\Ongoing\OCS\RFQ\HalliburtonRFQ\HalliburtonRFQ\bin\Release\Microsoft.Office.Tools.v4.0.Framework.dll
+E:\Prakash\Ongoing\OCS\RFQ\HalliburtonRFQ\HalliburtonRFQ\bin\Release\Microsoft.VisualStudio.Tools.Applications.Runtime.dll
+E:\Prakash\Ongoing\OCS\RFQ\HalliburtonRFQ\HalliburtonRFQ\bin\Release\Microsoft.Office.Tools.v4.0.Framework.xml
+E:\Prakash\Ongoing\OCS\RFQ\HalliburtonRFQ\HalliburtonRFQ\bin\Release\Microsoft.VisualStudio.Tools.Applications.Runtime.xml
+E:\Prakash\Ongoing\OCS\RFQ\HalliburtonRFQ\HalliburtonRFQ\bin\Release\Microsoft.Office.Tools.Common.xml
+E:\Prakash\Ongoing\OCS\RFQ\HalliburtonRFQ\HalliburtonRFQ\bin\Release\Microsoft.Office.Tools.Outlook.xml
+E:\Prakash\Ongoing\OCS\RFQ\HalliburtonRFQ\HalliburtonRFQ\bin\Release\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+E:\Prakash\Ongoing\OCS\RFQ\HalliburtonRFQ\HalliburtonRFQ\bin\Release\Microsoft.Office.Tools.Outlook.v4.0.Utilities.xml
+E:\Prakash\Ongoing\OCS\RFQ\HalliburtonRFQ\HalliburtonRFQ\obj\Release\HalliburtonRFQ.Properties.Resources.resources
+E:\Prakash\Ongoing\OCS\RFQ\HalliburtonRFQ\HalliburtonRFQ\obj\Release\HalliburtonRFQ.RequestApproval.resources
+E:\Prakash\Ongoing\OCS\RFQ\HalliburtonRFQ\HalliburtonRFQ\obj\Release\HalliburtonRFQ.RequestPart.resources
+E:\Prakash\Ongoing\OCS\RFQ\HalliburtonRFQ\HalliburtonRFQ\obj\Release\HalliburtonRFQ.SendRFQ.resources
+E:\Prakash\Ongoing\OCS\RFQ\HalliburtonRFQ\HalliburtonRFQ\obj\Release\HalliburtonRFQ.ViewRequest.resources
+E:\Prakash\Ongoing\OCS\RFQ\HalliburtonRFQ\HalliburtonRFQ\obj\Release\HalliburtonRFQ.csproj.GenerateResource.Cache
+E:\Prakash\Ongoing\OCS\RFQ\HalliburtonRFQ\HalliburtonRFQ\obj\Release\HalliburtonRFQ.dll
+E:\Prakash\Ongoing\OCS\RFQ\HalliburtonRFQ\HalliburtonRFQ\obj\Release\HalliburtonRFQ.pdb
+E:\Prakash\Ongoing\OCS\RFQ\HalliburtonRFQ\HalliburtonRFQ\obj\Release\HalliburtonRFQ.HalliburtonRibbon.resources
+E:\Prakash\Ongoing\OCS\RFQ\HalliburtonRFQ\HalliburtonRFQ\bin\Release\HalliburtonRFQ.dll.config
+E:\Prakash\Ongoing\OCS\RFQ\HalliburtonRFQ\HalliburtonRFQ\bin\Release\NestedDatagridview.dll
+E:\Prakash\Ongoing\OCS\RFQ\HalliburtonRFQ\HalliburtonRFQ\bin\Release\NestedDatagridview.pdb
+E:\Prakash\Ongoing\OCS\RFQ\HalliburtonRFQ\HalliburtonRFQ\bin\Release\Microsoft.ReportViewer.WinForms.dll
+E:\Prakash\Ongoing\OCS\RFQ\HalliburtonRFQ\HalliburtonRFQ\bin\Release\Microsoft.SqlServer.Types.dll
+E:\Prakash\Ongoing\OCS\RFQ\HalliburtonRFQ\HalliburtonRFQ\bin\Release\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Prakash\Ongoing\OCS\RFQ\HalliburtonRFQ\HalliburtonRFQ\bin\Release\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Prakash\Ongoing\OCS\RFQ\HalliburtonRFQ\HalliburtonRFQ\bin\Release\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Prakash\Ongoing\OCS\RFQ\HalliburtonRFQ\HalliburtonRFQ\bin\Release\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Prakash\Ongoing\OCS\RFQ\HalliburtonRFQ\HalliburtonRFQ\bin\Release\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Prakash\Ongoing\OCS\RFQ\HalliburtonRFQ\HalliburtonRFQ\bin\Release\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Prakash\Ongoing\OCS\RFQ\HalliburtonRFQ\HalliburtonRFQ\bin\Release\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Prakash\Ongoing\OCS\RFQ\HalliburtonRFQ\HalliburtonRFQ\bin\Release\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Prakash\Ongoing\OCS\RFQ\HalliburtonRFQ\HalliburtonRFQ\bin\Release\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Prakash\Ongoing\OCS\RFQ\HalliburtonRFQ\HalliburtonRFQ\bin\Release\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Prakash\Ongoing\OCS\RFQ\HalliburtonRFQ\HalliburtonRFQ\obj\Release\HalliburtonRFQ.Quote_Comparision.resources
+E:\Prakash\Ongoing\OCS\RFQ\HalliburtonRFQ\HalliburtonRFQ\bin\Release\NestedDatagridview.xml
+D:\Muthu\Projects\HalliburtonRFQ\HalliburtonRFQ\bin\Release\HalliburtonRFQ.dll.config
+D:\Muthu\Projects\HalliburtonRFQ\HalliburtonRFQ\bin\Release\HalliburtonRFQ.dll
+D:\Muthu\Projects\HalliburtonRFQ\HalliburtonRFQ\bin\Release\HalliburtonRFQ.pdb
+D:\Muthu\Projects\HalliburtonRFQ\HalliburtonRFQ\bin\Release\HalliburtonRFQ.dll.manifest
+D:\Muthu\Projects\HalliburtonRFQ\HalliburtonRFQ\bin\Release\HalliburtonRFQ.vsto
+D:\Muthu\Projects\HalliburtonRFQ\HalliburtonRFQ\bin\Release\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+D:\Muthu\Projects\HalliburtonRFQ\HalliburtonRFQ\bin\Release\Microsoft.Office.Tools.Outlook.dll
+D:\Muthu\Projects\HalliburtonRFQ\HalliburtonRFQ\bin\Release\Microsoft.Office.Tools.Outlook.v4.0.Utilities.dll
+D:\Muthu\Projects\HalliburtonRFQ\HalliburtonRFQ\bin\Release\Microsoft.Office.Tools.v4.0.Framework.dll
+D:\Muthu\Projects\HalliburtonRFQ\HalliburtonRFQ\bin\Release\Microsoft.ReportViewer.WinForms.dll
+D:\Muthu\Projects\HalliburtonRFQ\HalliburtonRFQ\bin\Release\Microsoft.VisualStudio.Tools.Applications.Runtime.dll
+D:\Muthu\Projects\HalliburtonRFQ\HalliburtonRFQ\bin\Release\NestedDatagridview.dll
+D:\Muthu\Projects\HalliburtonRFQ\HalliburtonRFQ\bin\Release\NestedDatagridview.pdb
+D:\Muthu\Projects\HalliburtonRFQ\HalliburtonRFQ\bin\Release\NestedDatagridview.xml
+D:\Muthu\Projects\HalliburtonRFQ\HalliburtonRFQ\bin\Release\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Muthu\Projects\HalliburtonRFQ\HalliburtonRFQ\bin\Release\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Muthu\Projects\HalliburtonRFQ\HalliburtonRFQ\bin\Release\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Muthu\Projects\HalliburtonRFQ\HalliburtonRFQ\bin\Release\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Muthu\Projects\HalliburtonRFQ\HalliburtonRFQ\bin\Release\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Muthu\Projects\HalliburtonRFQ\HalliburtonRFQ\bin\Release\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Muthu\Projects\HalliburtonRFQ\HalliburtonRFQ\bin\Release\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Muthu\Projects\HalliburtonRFQ\HalliburtonRFQ\bin\Release\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Muthu\Projects\HalliburtonRFQ\HalliburtonRFQ\bin\Release\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Muthu\Projects\HalliburtonRFQ\HalliburtonRFQ\bin\Release\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Muthu\Projects\HalliburtonRFQ\HalliburtonRFQ\obj\Release\HalliburtonRFQ.csprojAssemblyReference.cache
+D:\Muthu\Projects\HalliburtonRFQ\HalliburtonRFQ\obj\Release\HalliburtonRFQ.HalliburtonRibbon.resources
+D:\Muthu\Projects\HalliburtonRFQ\HalliburtonRFQ\obj\Release\HalliburtonRFQ.Properties.Resources.resources
+D:\Muthu\Projects\HalliburtonRFQ\HalliburtonRFQ\obj\Release\HalliburtonRFQ.Quote_Comparision.resources
+D:\Muthu\Projects\HalliburtonRFQ\HalliburtonRFQ\obj\Release\HalliburtonRFQ.RequestApproval.resources
+D:\Muthu\Projects\HalliburtonRFQ\HalliburtonRFQ\obj\Release\HalliburtonRFQ.RequestPart.resources
+D:\Muthu\Projects\HalliburtonRFQ\HalliburtonRFQ\obj\Release\HalliburtonRFQ.SendRFQ.resources
+D:\Muthu\Projects\HalliburtonRFQ\HalliburtonRFQ\obj\Release\HalliburtonRFQ.ViewRequest.resources
+D:\Muthu\Projects\HalliburtonRFQ\HalliburtonRFQ\obj\Release\HalliburtonRFQ.csproj.GenerateResource.cache
+D:\Muthu\Projects\HalliburtonRFQ\HalliburtonRFQ\obj\Release\HalliburtonRFQ.csproj.CoreCompileInputs.cache
+D:\Muthu\Projects\HalliburtonRFQ\HalliburtonRFQ\obj\Release\HalliburtonRFQ.csproj.CopyComplete
+D:\Muthu\Projects\HalliburtonRFQ\HalliburtonRFQ\obj\Release\HalliburtonRFQ.dll
+D:\Muthu\Projects\HalliburtonRFQ\HalliburtonRFQ\obj\Release\HalliburtonRFQ.pdb
+E:\TFS SOLUTION\HalliburtonRFQ\HalliburtonRFQ\bin\Release\Template\RFQ_FOSO_MailTemplate.html
+E:\TFS SOLUTION\HalliburtonRFQ\HalliburtonRFQ\bin\Release\HalliburtonRFQ.dll.config
+E:\TFS SOLUTION\HalliburtonRFQ\HalliburtonRFQ\bin\Release\HalliburtonRFQ.dll
+E:\TFS SOLUTION\HalliburtonRFQ\HalliburtonRFQ\bin\Release\HalliburtonRFQ.pdb
+E:\TFS SOLUTION\HalliburtonRFQ\HalliburtonRFQ\bin\Release\HalliburtonRFQ.dll.manifest
+E:\TFS SOLUTION\HalliburtonRFQ\HalliburtonRFQ\bin\Release\HalliburtonRFQ.vsto
+E:\TFS SOLUTION\HalliburtonRFQ\HalliburtonRFQ\bin\Release\ClosedXML.dll
+E:\TFS SOLUTION\HalliburtonRFQ\HalliburtonRFQ\bin\Release\DocumentFormat.OpenXml.dll
+E:\TFS SOLUTION\HalliburtonRFQ\HalliburtonRFQ\bin\Release\ExcelNumberFormat.dll
+E:\TFS SOLUTION\HalliburtonRFQ\HalliburtonRFQ\bin\Release\FastMember.dll
+E:\TFS SOLUTION\HalliburtonRFQ\HalliburtonRFQ\bin\Release\HtmlAgilityPack.dll
+E:\TFS SOLUTION\HalliburtonRFQ\HalliburtonRFQ\bin\Release\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+E:\TFS SOLUTION\HalliburtonRFQ\HalliburtonRFQ\bin\Release\Microsoft.Office.Tools.Outlook.dll
+E:\TFS SOLUTION\HalliburtonRFQ\HalliburtonRFQ\bin\Release\Microsoft.Office.Tools.Outlook.v4.0.Utilities.dll
+E:\TFS SOLUTION\HalliburtonRFQ\HalliburtonRFQ\bin\Release\Microsoft.Office.Tools.v4.0.Framework.dll
+E:\TFS SOLUTION\HalliburtonRFQ\HalliburtonRFQ\bin\Release\Microsoft.VisualStudio.Tools.Applications.Runtime.dll
+E:\TFS SOLUTION\HalliburtonRFQ\HalliburtonRFQ\bin\Release\NestedDatagridview.dll
+E:\TFS SOLUTION\HalliburtonRFQ\HalliburtonRFQ\bin\Release\System.IO.FileSystem.Primitives.dll
+E:\TFS SOLUTION\HalliburtonRFQ\HalliburtonRFQ\bin\Release\System.IO.Packaging.dll
+E:\TFS SOLUTION\HalliburtonRFQ\HalliburtonRFQ\bin\Release\ClosedXML.pdb
+E:\TFS SOLUTION\HalliburtonRFQ\HalliburtonRFQ\bin\Release\ClosedXML.xml
+E:\TFS SOLUTION\HalliburtonRFQ\HalliburtonRFQ\bin\Release\DocumentFormat.OpenXml.xml
+E:\TFS SOLUTION\HalliburtonRFQ\HalliburtonRFQ\bin\Release\ExcelNumberFormat.xml
+E:\TFS SOLUTION\HalliburtonRFQ\HalliburtonRFQ\bin\Release\HtmlAgilityPack.pdb
+E:\TFS SOLUTION\HalliburtonRFQ\HalliburtonRFQ\bin\Release\HtmlAgilityPack.xml
+E:\TFS SOLUTION\HalliburtonRFQ\HalliburtonRFQ\bin\Release\NestedDatagridview.pdb
+E:\TFS SOLUTION\HalliburtonRFQ\HalliburtonRFQ\bin\Release\NestedDatagridview.xml
+E:\TFS SOLUTION\HalliburtonRFQ\HalliburtonRFQ\obj\Release\HalliburtonRFQ.HalliburtonRibbon.resources
+E:\TFS SOLUTION\HalliburtonRFQ\HalliburtonRFQ\obj\Release\HalliburtonRFQ.Properties.Resources.resources
+E:\TFS SOLUTION\HalliburtonRFQ\HalliburtonRFQ\obj\Release\HalliburtonRFQ.Quote_Comparision.resources
+E:\TFS SOLUTION\HalliburtonRFQ\HalliburtonRFQ\obj\Release\HalliburtonRFQ.RequestApproval.resources
+E:\TFS SOLUTION\HalliburtonRFQ\HalliburtonRFQ\obj\Release\HalliburtonRFQ.RequestPart.resources
+E:\TFS SOLUTION\HalliburtonRFQ\HalliburtonRFQ\obj\Release\HalliburtonRFQ.SendRFQ.resources
+E:\TFS SOLUTION\HalliburtonRFQ\HalliburtonRFQ\obj\Release\HalliburtonRFQ.SendRFQ_FOSO.resources
+E:\TFS SOLUTION\HalliburtonRFQ\HalliburtonRFQ\obj\Release\HalliburtonRFQ.ViewRequest.resources
+E:\TFS SOLUTION\HalliburtonRFQ\HalliburtonRFQ\obj\Release\HalliburtonRFQ.csproj.GenerateResource.cache
+E:\TFS SOLUTION\HalliburtonRFQ\HalliburtonRFQ\obj\Release\HalliburtonRFQ.csproj.CoreCompileInputs.cache
+E:\TFS SOLUTION\HalliburtonRFQ\HalliburtonRFQ\obj\Release\HalliburtonRFQ.csproj.CopyComplete
+E:\TFS SOLUTION\HalliburtonRFQ\HalliburtonRFQ\obj\Release\HalliburtonRFQ.dll
+E:\TFS SOLUTION\HalliburtonRFQ\HalliburtonRFQ\obj\Release\HalliburtonRFQ.pdb
+D:\.Net\Source Codes1\Source Codes\HalliburtonRFQ\obj\Release\HalliburtonRFQ.csproj.AssemblyReference.cache
+D:\.Net\Source Codes1\Source Codes\HalliburtonRFQ\obj\Release\HalliburtonRFQ.HalliburtonRibbon.resources
+D:\.Net\Source Codes1\Source Codes\HalliburtonRFQ\obj\Release\HalliburtonRFQ.Quote_Comparision.resources
+D:\.Net\Source Codes1\Source Codes\HalliburtonRFQ\obj\Release\HalliburtonRFQ.RequestApproval.resources
+D:\.Net\Source Codes1\Source Codes\HalliburtonRFQ\obj\Release\HalliburtonRFQ.RequestPart.resources
+D:\.Net\Source Codes1\Source Codes\HalliburtonRFQ\obj\Release\HalliburtonRFQ.SendRFQ.resources
+D:\.Net\Source Codes1\Source Codes\HalliburtonRFQ\obj\Release\HalliburtonRFQ.SendRFQ_FOSO.resources
+D:\.Net\Source Codes1\Source Codes\HalliburtonRFQ\obj\Release\HalliburtonRFQ.FOSOTemplate_Edior.resources
+D:\.Net\Source Codes1\Source Codes\HalliburtonRFQ\obj\Release\HalliburtonRFQ.Template_Edior.resources
+D:\.Net\Source Codes1\Source Codes\HalliburtonRFQ\obj\Release\HalliburtonRFQ.ViewRequest.resources
+D:\.Net\Source Codes1\Source Codes\HalliburtonRFQ\obj\Release\HalliburtonRFQ.csproj.GenerateResource.cache
+D:\.Net\Source Codes1\Source Codes\HalliburtonRFQ\obj\Release\HalliburtonRFQ.Properties.Resources.resources
+D:\.Net\Source Codes1\Source Codes\HalliburtonRFQ\obj\Release\HalliburtonRFQ.csproj.CoreCompileInputs.cache
+D:\.Net\Source Codes1\Source Codes\HalliburtonRFQ\obj\Release\HalliburtonRFQ.SendRFQ_TKPP.resources
+D:\.Net\Source Codes\Source Codes\TKPP\HalliburtonRFQ\bin\Release\Template\RFQ_FOSO_MailTemplate.html
+D:\.Net\Source Codes\Source Codes\TKPP\HalliburtonRFQ\bin\Release\RFQ-TKPP.dll.config
+D:\.Net\Source Codes\Source Codes\TKPP\HalliburtonRFQ\bin\Release\RFQ-TKPP.dll
+D:\.Net\Source Codes\Source Codes\TKPP\HalliburtonRFQ\bin\Release\RFQ-TKPP.pdb
+D:\.Net\Source Codes\Source Codes\TKPP\HalliburtonRFQ\bin\Release\RFQ-TKPP.dll.manifest
+D:\.Net\Source Codes\Source Codes\TKPP\HalliburtonRFQ\bin\Release\RFQ-TKPP.vsto
+D:\.Net\Source Codes\Source Codes\TKPP\HalliburtonRFQ\bin\Release\HtmlAgilityPack.dll
+D:\.Net\Source Codes\Source Codes\TKPP\HalliburtonRFQ\bin\Release\log4net.dll
+D:\.Net\Source Codes\Source Codes\TKPP\HalliburtonRFQ\bin\Release\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+D:\.Net\Source Codes\Source Codes\TKPP\HalliburtonRFQ\bin\Release\Microsoft.Office.Tools.Outlook.dll
+D:\.Net\Source Codes\Source Codes\TKPP\HalliburtonRFQ\bin\Release\Microsoft.Office.Tools.Outlook.v4.0.Utilities.dll
+D:\.Net\Source Codes\Source Codes\TKPP\HalliburtonRFQ\bin\Release\Microsoft.Office.Tools.v4.0.Framework.dll
+D:\.Net\Source Codes\Source Codes\TKPP\HalliburtonRFQ\bin\Release\Microsoft.ReportViewer.Common.dll
+D:\.Net\Source Codes\Source Codes\TKPP\HalliburtonRFQ\bin\Release\Microsoft.ReportViewer.DataVisualization.dll
+D:\.Net\Source Codes\Source Codes\TKPP\HalliburtonRFQ\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\.Net\Source Codes\Source Codes\TKPP\HalliburtonRFQ\bin\Release\Microsoft.ReportViewer.WinForms.dll
+D:\.Net\Source Codes\Source Codes\TKPP\HalliburtonRFQ\bin\Release\Microsoft.VisualStudio.Tools.Applications.Runtime.dll
+D:\.Net\Source Codes\Source Codes\TKPP\HalliburtonRFQ\bin\Release\MstHtmlEditor.dll
+D:\.Net\Source Codes\Source Codes\TKPP\HalliburtonRFQ\bin\Release\HtmlAgilityPack.pdb
+D:\.Net\Source Codes\Source Codes\TKPP\HalliburtonRFQ\bin\Release\HtmlAgilityPack.xml
+D:\.Net\Source Codes\Source Codes\TKPP\HalliburtonRFQ\bin\Release\log4net.xml
+D:\.Net\Source Codes\Source Codes\TKPP\HalliburtonRFQ\bin\Release\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\.Net\Source Codes\Source Codes\TKPP\HalliburtonRFQ\bin\Release\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\.Net\Source Codes\Source Codes\TKPP\HalliburtonRFQ\bin\Release\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\.Net\Source Codes\Source Codes\TKPP\HalliburtonRFQ\bin\Release\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\.Net\Source Codes\Source Codes\TKPP\HalliburtonRFQ\bin\Release\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\.Net\Source Codes\Source Codes\TKPP\HalliburtonRFQ\bin\Release\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\.Net\Source Codes\Source Codes\TKPP\HalliburtonRFQ\bin\Release\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\.Net\Source Codes\Source Codes\TKPP\HalliburtonRFQ\bin\Release\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\.Net\Source Codes\Source Codes\TKPP\HalliburtonRFQ\bin\Release\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\.Net\Source Codes\Source Codes\TKPP\HalliburtonRFQ\bin\Release\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\.Net\Source Codes\Source Codes\TKPP\HalliburtonRFQ\obj\Release\HalliburtonRFQ.csproj.AssemblyReference.cache
+D:\.Net\Source Codes\Source Codes\TKPP\HalliburtonRFQ\obj\Release\HalliburtonRFQ.HalliburtonRibbon.resources
+D:\.Net\Source Codes\Source Codes\TKPP\HalliburtonRFQ\obj\Release\HalliburtonRFQ.Properties.Resources.resources
+D:\.Net\Source Codes\Source Codes\TKPP\HalliburtonRFQ\obj\Release\HalliburtonRFQ.Quote_Comparision.resources
+D:\.Net\Source Codes\Source Codes\TKPP\HalliburtonRFQ\obj\Release\HalliburtonRFQ.RequestApproval.resources
+D:\.Net\Source Codes\Source Codes\TKPP\HalliburtonRFQ\obj\Release\HalliburtonRFQ.RequestPart.resources
+D:\.Net\Source Codes\Source Codes\TKPP\HalliburtonRFQ\obj\Release\HalliburtonRFQ.SendRFQ.resources
+D:\.Net\Source Codes\Source Codes\TKPP\HalliburtonRFQ\obj\Release\HalliburtonRFQ.SendRFQ_FOSO.resources
+D:\.Net\Source Codes\Source Codes\TKPP\HalliburtonRFQ\obj\Release\HalliburtonRFQ.FOSOTemplate_Edior.resources
+D:\.Net\Source Codes\Source Codes\TKPP\HalliburtonRFQ\obj\Release\HalliburtonRFQ.SendRFQ_TKPP.resources
+D:\.Net\Source Codes\Source Codes\TKPP\HalliburtonRFQ\obj\Release\HalliburtonRFQ.Template_Edior.resources
+D:\.Net\Source Codes\Source Codes\TKPP\HalliburtonRFQ\obj\Release\HalliburtonRFQ.ViewRequest.resources
+D:\.Net\Source Codes\Source Codes\TKPP\HalliburtonRFQ\obj\Release\HalliburtonRFQ.csproj.GenerateResource.cache
+D:\.Net\Source Codes\Source Codes\TKPP\HalliburtonRFQ\obj\Release\HalliburtonRFQ.csproj.CoreCompileInputs.cache
+D:\.Net\Source Codes\Source Codes\TKPP\HalliburtonRFQ\obj\Release\Hallibur.9C13210D.Up2Date
+D:\.Net\Source Codes\Source Codes\TKPP\HalliburtonRFQ\obj\Release\RFQ-TKPP.dll
+D:\.Net\Source Codes\Source Codes\TKPP\HalliburtonRFQ\obj\Release\RFQ-TKPP.pdb
+D:\.Net\Source Codes\Source Codes\TKPP\HalliburtonRFQ-TKPP\bin\Release\Template\RFQ_FOSO_MailTemplate.html
+D:\.Net\Source Codes\Source Codes\TKPP\HalliburtonRFQ-TKPP\bin\Release\RFQ-TKPP.dll.config
+D:\.Net\Source Codes\Source Codes\TKPP\HalliburtonRFQ-TKPP\bin\Release\RFQ-TKPP.dll
+D:\.Net\Source Codes\Source Codes\TKPP\HalliburtonRFQ-TKPP\bin\Release\RFQ-TKPP.pdb
+D:\.Net\Source Codes\Source Codes\TKPP\HalliburtonRFQ-TKPP\bin\Release\RFQ-TKPP.dll.manifest
+D:\.Net\Source Codes\Source Codes\TKPP\HalliburtonRFQ-TKPP\bin\Release\RFQ-TKPP.vsto
+D:\.Net\Source Codes\Source Codes\TKPP\HalliburtonRFQ-TKPP\bin\Release\HtmlAgilityPack.dll
+D:\.Net\Source Codes\Source Codes\TKPP\HalliburtonRFQ-TKPP\bin\Release\log4net.dll
+D:\.Net\Source Codes\Source Codes\TKPP\HalliburtonRFQ-TKPP\bin\Release\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+D:\.Net\Source Codes\Source Codes\TKPP\HalliburtonRFQ-TKPP\bin\Release\Microsoft.Office.Tools.Outlook.dll
+D:\.Net\Source Codes\Source Codes\TKPP\HalliburtonRFQ-TKPP\bin\Release\Microsoft.Office.Tools.Outlook.v4.0.Utilities.dll
+D:\.Net\Source Codes\Source Codes\TKPP\HalliburtonRFQ-TKPP\bin\Release\Microsoft.Office.Tools.v4.0.Framework.dll
+D:\.Net\Source Codes\Source Codes\TKPP\HalliburtonRFQ-TKPP\bin\Release\Microsoft.ReportViewer.Common.dll
+D:\.Net\Source Codes\Source Codes\TKPP\HalliburtonRFQ-TKPP\bin\Release\Microsoft.ReportViewer.DataVisualization.dll
+D:\.Net\Source Codes\Source Codes\TKPP\HalliburtonRFQ-TKPP\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\.Net\Source Codes\Source Codes\TKPP\HalliburtonRFQ-TKPP\bin\Release\Microsoft.ReportViewer.WinForms.dll
+D:\.Net\Source Codes\Source Codes\TKPP\HalliburtonRFQ-TKPP\bin\Release\Microsoft.VisualStudio.Tools.Applications.Runtime.dll
+D:\.Net\Source Codes\Source Codes\TKPP\HalliburtonRFQ-TKPP\bin\Release\MstHtmlEditor.dll
+D:\.Net\Source Codes\Source Codes\TKPP\HalliburtonRFQ-TKPP\bin\Release\HtmlAgilityPack.pdb
+D:\.Net\Source Codes\Source Codes\TKPP\HalliburtonRFQ-TKPP\bin\Release\HtmlAgilityPack.xml
+D:\.Net\Source Codes\Source Codes\TKPP\HalliburtonRFQ-TKPP\bin\Release\log4net.xml
+D:\.Net\Source Codes\Source Codes\TKPP\HalliburtonRFQ-TKPP\bin\Release\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\.Net\Source Codes\Source Codes\TKPP\HalliburtonRFQ-TKPP\bin\Release\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\.Net\Source Codes\Source Codes\TKPP\HalliburtonRFQ-TKPP\bin\Release\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\.Net\Source Codes\Source Codes\TKPP\HalliburtonRFQ-TKPP\bin\Release\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\.Net\Source Codes\Source Codes\TKPP\HalliburtonRFQ-TKPP\bin\Release\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\.Net\Source Codes\Source Codes\TKPP\HalliburtonRFQ-TKPP\bin\Release\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\.Net\Source Codes\Source Codes\TKPP\HalliburtonRFQ-TKPP\bin\Release\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\.Net\Source Codes\Source Codes\TKPP\HalliburtonRFQ-TKPP\bin\Release\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\.Net\Source Codes\Source Codes\TKPP\HalliburtonRFQ-TKPP\bin\Release\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\.Net\Source Codes\Source Codes\TKPP\HalliburtonRFQ-TKPP\bin\Release\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\.Net\Source Codes\Source Codes\TKPP\HalliburtonRFQ-TKPP\obj\Release\HalliburtonRFQ.csproj.AssemblyReference.cache
+D:\.Net\Source Codes\Source Codes\TKPP\HalliburtonRFQ-TKPP\obj\Release\HalliburtonRFQ.csproj.ResolveComReference.cache
+D:\.Net\Source Codes\Source Codes\TKPP\HalliburtonRFQ-TKPP\obj\Release\HalliburtonRFQ.HalliburtonRibbon.resources
+D:\.Net\Source Codes\Source Codes\TKPP\HalliburtonRFQ-TKPP\obj\Release\HalliburtonRFQ.Properties.Resources.resources
+D:\.Net\Source Codes\Source Codes\TKPP\HalliburtonRFQ-TKPP\obj\Release\HalliburtonRFQ.Quote_Comparision.resources
+D:\.Net\Source Codes\Source Codes\TKPP\HalliburtonRFQ-TKPP\obj\Release\HalliburtonRFQ.RequestApproval.resources
+D:\.Net\Source Codes\Source Codes\TKPP\HalliburtonRFQ-TKPP\obj\Release\HalliburtonRFQ.RequestPart.resources
+D:\.Net\Source Codes\Source Codes\TKPP\HalliburtonRFQ-TKPP\obj\Release\HalliburtonRFQ.SendRFQ.resources
+D:\.Net\Source Codes\Source Codes\TKPP\HalliburtonRFQ-TKPP\obj\Release\HalliburtonRFQ.SendRFQ_FOSO.resources
+D:\.Net\Source Codes\Source Codes\TKPP\HalliburtonRFQ-TKPP\obj\Release\HalliburtonRFQ.FOSOTemplate_Edior.resources
+D:\.Net\Source Codes\Source Codes\TKPP\HalliburtonRFQ-TKPP\obj\Release\HalliburtonRFQ.SendRFQ_TKPP.resources
+D:\.Net\Source Codes\Source Codes\TKPP\HalliburtonRFQ-TKPP\obj\Release\HalliburtonRFQ.Template_Edior.resources
+D:\.Net\Source Codes\Source Codes\TKPP\HalliburtonRFQ-TKPP\obj\Release\HalliburtonRFQ.ViewRequest.resources
+D:\.Net\Source Codes\Source Codes\TKPP\HalliburtonRFQ-TKPP\obj\Release\HalliburtonRFQ.csproj.GenerateResource.cache
+D:\.Net\Source Codes\Source Codes\TKPP\HalliburtonRFQ-TKPP\obj\Release\HalliburtonRFQ.csproj.CoreCompileInputs.cache
+D:\.Net\Source Codes\Source Codes\TKPP\HalliburtonRFQ-TKPP\obj\Release\Hallibur.9C13210D.Up2Date
+D:\.Net\Source Codes\Source Codes\TKPP\HalliburtonRFQ-TKPP\obj\Release\RFQ-TKPP.dll
+D:\.Net\Source Codes\Source Codes\TKPP\HalliburtonRFQ-TKPP\obj\Release\RFQ-TKPP.pdb

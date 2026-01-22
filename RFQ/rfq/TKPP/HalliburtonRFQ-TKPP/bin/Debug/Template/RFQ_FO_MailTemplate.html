@@ -1,0 +1,219 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <title>FO RFQ Sample</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+  <style >
+ body{
+ margin-left:40px;
+ }
+    hr.line1{
+	border:3px solid black;
+	}
+	hr.line2{
+	border:1px solid #b0b3b8;
+	}
+	span.msg{
+	color:red;
+	text-decoration:underline;
+	font-weight:bold;
+	}
+	span.pn{
+	color:blue;
+	text-decoration:underline;
+	font-weight:bold;
+	}
+	.deadline{
+	color:red;
+	font-size:25px; 
+	font-weight:bold;
+	text-align:right;
+    font-family:Calibri;
+	}
+	.border {
+    display: inline-block;
+        height: 40px;    
+    }
+	.note{
+	font-family:Ariel;
+	font-size:20px;
+	font-weight:bold;
+	}
+	table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+  }
+th {
+background-color:yellow;
+color:black;
+   border: 1px solid black;
+   text-align: left;
+   padding: 8px;
+  }
+  td{
+   border: 1px solid black;
+   text-align: left;
+   padding: 8px;
+  }
+  ol{
+  font-size:20px;
+  color:#36648b;
+  }
+  .desc{
+  font-size:22px;
+  color:#36648b;
+  font-family:calibri;
+  }
+  a{
+  color:#0b3fdb;
+  text-decoration:underline;
+  }
+  h5,h4,h3
+  {
+ font-weight:bold;
+  }
+  </style>
+ </head>
+ <body>
+  <div class="container-fluid" >
+   
+ 
+    <!-- <div class="deadline"> -->
+	   <!-- <div class="row"> -->
+	      <!-- <div class="col-sm-8"></div> -->
+		  <!-- <div class="col-sm-4"><h3>Request for Quotation</h3></div> -->
+	   <!-- </div> -->
+	   <!-- <div class="row"> -->
+	      <!-- <div class="col-sm-8"></div> -->
+	      <!-- <div class="col-sm-4"><h3>Bidding Deadline {BiddingDeadLine}</h3></div> -->
+		  <!-- <span class="border border-0"></span> -->
+	  <!-- </div> -->
+	<!-- </div> -->
+  <!-- <div class="container-fluid"> -->
+  <div class="desc">
+     <!-- <div class="row"><h4>Dear Supplier,</h4></div> -->
+	 <!-- <div class="row"><h4>Good day to you.</h4></div> -->
+	 <div class="row"><h4>Hi</h4></div>
+	 <p></p>
+	 <div class="row"> <div class="col-sm-12">
+	 <h4>Please quote your best price and delivery lead time for the following by filling in the excel sheet and PDF format quotation by <span class="msg">DDMMYY</span></h4>
+	 <h4><span class="pn">PN In HSN</span></h4>
+	 <!-- <h4>Halliburton Procurement Department requests your <span class="msg">2 years price quotation</span> for the item(s) specified below. -->
+	 <!-- In the event of any RFQ extension deadline, please revert 3 days before closing date for us to extend the RFQ deadline.</h4> -->
+	 </div></div>
+	<table>
+	<tr>
+	<th style="width:30%">SAP Material Number</th>
+	<th style="width:10%">Legacy</th>
+	<th style="width:10%">Description</th>
+	<th style="width:20%">Scope of Work</th>
+	<th style="width:5%">Drawing</th>
+	<th style="width:2%">REV</th>
+	<th style="width:2%">LG</th>
+	<th style="width:10%">Material Assigned</th>
+	<th style="width:10%">RFQ Quote</th>
+	<th style="width:2%">UOM</th>
+	<th style="width:3%">1-3</th>
+	<th style="width:3%">4-9</th>
+	<th style="width:2%">>=10</th>
+	</tr>
+	<tr>
+	<td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+	</tr>
+	<tr>
+	<td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+	</tr>
+	<tr>
+	<td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+	</tr>
+	<tr>
+	<td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+	</tr>
+	<tr>
+	<td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+	</tr>
+	<tr>
+	<td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+	</tr>
+	</table>
+	 </div>
+	<br>
+	 <div class="note">
+	 <div class="row"><h5>Please quote with price break as follows:</h5></div>
+	 <br>
+	 <div class="row"><h5>Qty 1 - 3</h5></div>
+    <div class="row"><h5>Qty 4 - 9</h5></div>
+   <div class="row"><h5>Qty 10 & above</h5></div>
+  <br>
+	 <div class="row"><h5>** PLEASE REPLY THIS RFQ WITHIN THE DEADLINE STATED***</h5></div>
+	 </div>
+   <!-- <table> -->
+     <!-- <tr> -->
+	 <!-- <th><checked></th> -->
+	   <!-- <th>Type</th> -->
+	   <!-- <th>Name</th> -->
+	   <!-- <th>Revision</th> -->
+	   <!-- <th>Search Info</th> -->
+	   <!-- <th>SW D/M</th> -->
+	   <!-- <th>Reference Number</th> -->
+	 <!-- </tr> -->
+	 <!-- <tr> -->
+	 <!-- <td><input type="checkbox"></td> -->
+	    <!-- <td>Part</td> -->
+		<!-- <td>102841006</td> -->
+		<!-- <td>A</td> -->
+		<!-- <td><b>Short Description:</b>FXTR,3D PRINTED,HLDR,MDL,iCRUISE<br> -->
+		<!-- <b>Description:</b>FIXTURE,3D PRINTED,HOLDER,MODULE,iCRUISE</td> -->
+		<!-- <td>Y/Y</td> -->
+		<!-- <td>102841006</td> -->
+	 <!-- </tr> -->
+	 <!-- <tr> -->
+	 	 <!-- <td><input type="checkbox"></td> -->
+	    <!-- <td>Part</td> -->
+		<!-- <td>102841007</td> -->
+		<!-- <td>A</td> -->
+		<!-- <td><b>Short Description:</b>FXTR,3D PRINTED,HLDR,MDL,iCRUISE<br> -->
+		<!-- <b>Description:</b>FIXTURE,3D PRINTED,HOLDER,MODULE,iCRUISE</td> -->
+		<!-- <td>Y/Y</td> -->
+		<!-- <td>102841006</td> -->
+	 <!-- </tr> -->
+	 <!-- <tr> -->
+	    <!-- <td><input type="checkbox"></td> -->
+	    <!-- <td>Part</td> -->
+		<!-- <td>102841008</td> -->
+		<!-- <td>A</td> -->
+		<!-- <td><b>Short Description:</b>FXTR,3D PRINTED,HLDR,MDL,iCRUISE<br> -->
+		<!-- <b>Description:</b>FIXTURE,3D PRINTED,HOLDER,MODULE,iCRUISE</td> -->
+		<!-- <td>Y/Y</td> -->
+		<!-- <td>102841006</td> -->
+	 <!-- </tr> -->
+	 <!-- <tr> -->
+	    <!-- <td><input type="checkbox"></td> -->
+	    <!-- <td>Part</td> -->
+		<!-- <td>102841009</td> -->
+		<!-- <td>A</td> -->
+		<!-- <td><b>Short Description:</b>FXTR,3D PRINTED,HLDR,MDL,iCRUISE<br> -->
+		<!-- <b>Description:</b>FIXTURE,3D PRINTED,HOLDER,MODULE,iCRUISE</td> -->
+		<!-- <td>Y/Y</td> -->
+		<!-- <td>102841006</td> -->
+	 <!-- </tr> -->
+   <!-- </table> -->
+  
+   <br>
+   <div class="row"><h5>Note:</h5></div>   
+	 <div class="row"><h5>1) Please address the quote to Jessica.</h5></div> 
+	 <div class="row"><h5>2) Raw material is provided byHAL.</h5></div> 
+	 <div class="row"><h5>3) Attached drawings with RFQ is uncontrolled. </h5></div> 
+	 <div class="row"><h5>4) Unless otherwise stated in the job scope, please quote in EA (each). When quoting in MST, please indicate in Remark column 1 MST = xx EA.</h5></div> 
+	 <div class="row"><h5>5) Quote validity should be minimum One (1) Year from the date of Submission of Quotation. The quote validity on the quotation will not be taken for consideration if it is less.</h5></div> 
+	 <div class="row"><h5>6) Unsuccessful Quotes / Bids will not be notified. </h5></div> 
+	  <div class="row"><h5>7) Note: Expected lead time for Farm-out parts is 14 days for all material grade. Please indicate in your Quote.</h5></div>
+	  <span class="border border-0"></span>
+<div class="row"><h5><a href="http://www.halliburton.com/public/pubsdata/related_docs/supplierethicsletter.pdf">http://www.halliburton.com/public/pubsdata/related_docs/supplierethicsletter.pdf with RFQ (For Your Reading). Please get with RFQ requestor if you could not access the Supplier Ethics letter</a></h4></div>  
+  </div>
+</div>
+</body>
+</html>

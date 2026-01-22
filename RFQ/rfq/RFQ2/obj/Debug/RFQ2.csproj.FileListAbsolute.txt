@@ -1,0 +1,234 @@
+C:\Users\h238397\source\repos\RFQ2\bin\Debug\RFQ2.exe.config
+C:\Users\h238397\source\repos\RFQ2\bin\Debug\RFQ2.exe
+C:\Users\h238397\source\repos\RFQ2\bin\Debug\RFQ2.pdb
+C:\Users\h238397\source\repos\RFQ2\obj\Debug\RFQ2.forms.FormFOFRQ.resources
+C:\Users\h238397\source\repos\RFQ2\obj\Debug\RFQ2.Properties.Resources.resources
+C:\Users\h238397\source\repos\RFQ2\obj\Debug\RFQ2.csproj.GenerateResource.cache
+C:\Users\h238397\source\repos\RFQ2\obj\Debug\RFQ2.csproj.CoreCompileInputs.cache
+C:\Users\h238397\source\repos\RFQ2\obj\Debug\RFQ2.exe
+C:\Users\h238397\source\repos\RFQ2\obj\Debug\RFQ2.pdb
+C:\Users\h238397\source\repos\RFQ2\bin\Debug\log4net.config
+C:\Users\h238397\source\repos\RFQ2\bin\Debug\log4net.dll
+C:\Users\h238397\source\repos\RFQ2\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\h238397\source\repos\RFQ2\bin\Debug\System.Security.AccessControl.dll
+C:\Users\h238397\source\repos\RFQ2\bin\Debug\System.Security.Permissions.dll
+C:\Users\h238397\source\repos\RFQ2\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\h238397\source\repos\RFQ2\bin\Debug\log4net.xml
+C:\Users\h238397\source\repos\RFQ2\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\h238397\source\repos\RFQ2\bin\Debug\System.Security.AccessControl.xml
+C:\Users\h238397\source\repos\RFQ2\bin\Debug\System.Security.Permissions.xml
+C:\Users\h238397\source\repos\RFQ2\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\h238397\source\repos\RFQ2\obj\Debug\RFQ2.csproj.CopyComplete
+C:\Users\h238397\source\repos\RFQ2\obj\Debug\RFQ2.Desktop.resources
+C:\Users\h238397\source\repos\RFQ2\obj\Debug\RFQ2.forms.FormPPRFQ.resources
+C:\Users\h238397\source\repos\RFQ2\bin\Debug\HtmlAgilityPack.dll
+C:\Users\h238397\source\repos\RFQ2\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\h238397\source\repos\RFQ2\bin\Debug\HtmlAgilityPack.xml
+C:\Users\h238397\source\repos-jaga\RFQ2\bin\Debug\log4net.config
+C:\Users\h238397\source\repos-jaga\RFQ2\bin\Debug\RFQ2.exe.config
+C:\Users\h238397\source\repos-jaga\RFQ2\bin\Debug\RFQ2.exe
+C:\Users\h238397\source\repos-jaga\RFQ2\bin\Debug\RFQ2.pdb
+C:\Users\h238397\source\repos-jaga\RFQ2\bin\Debug\HtmlAgilityPack.dll
+C:\Users\h238397\source\repos-jaga\RFQ2\bin\Debug\log4net.dll
+C:\Users\h238397\source\repos-jaga\RFQ2\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\h238397\source\repos-jaga\RFQ2\bin\Debug\System.Security.AccessControl.dll
+C:\Users\h238397\source\repos-jaga\RFQ2\bin\Debug\System.Security.Permissions.dll
+C:\Users\h238397\source\repos-jaga\RFQ2\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\h238397\source\repos-jaga\RFQ2\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\h238397\source\repos-jaga\RFQ2\bin\Debug\HtmlAgilityPack.xml
+C:\Users\h238397\source\repos-jaga\RFQ2\bin\Debug\log4net.xml
+C:\Users\h238397\source\repos-jaga\RFQ2\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\h238397\source\repos-jaga\RFQ2\bin\Debug\System.Security.AccessControl.xml
+C:\Users\h238397\source\repos-jaga\RFQ2\bin\Debug\System.Security.Permissions.xml
+C:\Users\h238397\source\repos-jaga\RFQ2\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\h238397\source\repos-jaga\RFQ2\obj\Debug\RFQ2.Desktop.resources
+C:\Users\h238397\source\repos-jaga\RFQ2\obj\Debug\RFQ2.forms.FormFOFRQ.resources
+C:\Users\h238397\source\repos-jaga\RFQ2\obj\Debug\RFQ2.forms.FormPPRFQ.resources
+C:\Users\h238397\source\repos-jaga\RFQ2\obj\Debug\RFQ2.Properties.Resources.resources
+C:\Users\h238397\source\repos-jaga\RFQ2\obj\Debug\RFQ2.csproj.GenerateResource.cache
+C:\Users\h238397\source\repos-jaga\RFQ2\obj\Debug\RFQ2.csproj.CoreCompileInputs.cache
+C:\Users\h238397\source\repos-jaga\RFQ2\obj\Debug\RFQ2.csproj.CopyComplete
+C:\Users\h238397\source\repos-jaga\RFQ2\obj\Debug\RFQ2.exe
+C:\Users\h238397\source\repos-jaga\RFQ2\obj\Debug\RFQ2.pdb
+C:\Users\h238397\source\repos-jaga\RFQ2\obj\Debug\RFQ2.forms.FormAddPPRfq.resources
+C:\Users\h238397\source\repos-jaga\RFQ2\obj\Debug\RFQ2.csprojAssemblyReference.cache
+C:\Users\h238397\source\repos-jaga\RFQ2\bin\Debug\RFQ2.exe.manifest
+C:\Users\h238397\source\repos-jaga\RFQ2\bin\Debug\RFQ2.application
+C:\Users\h238397\source\repos-jaga\RFQ2\obj\Debug\RFQ2.exe.manifest
+C:\Users\h238397\source\repos-jaga\RFQ2\obj\Debug\RFQ2.application
+C:\Users\h238397\source\repos-jaga\RFQ2\obj\Debug\RFQ2.forms.FormVendorMgmt.resources
+C:\Users\h238397\source\repos-jaga\RFQ2\obj\Debug\RFQ2.forms.FormVendorEdit.resources
+C:\workspace\OneDrive\OCS-PROJECTS\RFQ2\bin\Debug\log4net.config
+C:\workspace\OneDrive\OCS-PROJECTS\RFQ2\bin\Debug\RFQ2.exe.config
+C:\workspace\OneDrive\OCS-PROJECTS\RFQ2\bin\Debug\RFQ2.exe.manifest
+C:\workspace\OneDrive\OCS-PROJECTS\RFQ2\bin\Debug\RFQ2.application
+C:\workspace\OneDrive\OCS-PROJECTS\RFQ2\bin\Debug\RFQ2.exe
+C:\workspace\OneDrive\OCS-PROJECTS\RFQ2\bin\Debug\RFQ2.pdb
+C:\workspace\OneDrive\OCS-PROJECTS\RFQ2\bin\Debug\HtmlAgilityPack.dll
+C:\workspace\OneDrive\OCS-PROJECTS\RFQ2\bin\Debug\log4net.dll
+C:\workspace\OneDrive\OCS-PROJECTS\RFQ2\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\workspace\OneDrive\OCS-PROJECTS\RFQ2\bin\Debug\System.Security.AccessControl.dll
+C:\workspace\OneDrive\OCS-PROJECTS\RFQ2\bin\Debug\System.Security.Permissions.dll
+C:\workspace\OneDrive\OCS-PROJECTS\RFQ2\bin\Debug\System.Security.Principal.Windows.dll
+C:\workspace\OneDrive\OCS-PROJECTS\RFQ2\bin\Debug\HtmlAgilityPack.pdb
+C:\workspace\OneDrive\OCS-PROJECTS\RFQ2\bin\Debug\HtmlAgilityPack.xml
+C:\workspace\OneDrive\OCS-PROJECTS\RFQ2\bin\Debug\log4net.xml
+C:\workspace\OneDrive\OCS-PROJECTS\RFQ2\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\workspace\OneDrive\OCS-PROJECTS\RFQ2\bin\Debug\System.Security.AccessControl.xml
+C:\workspace\OneDrive\OCS-PROJECTS\RFQ2\bin\Debug\System.Security.Permissions.xml
+C:\workspace\OneDrive\OCS-PROJECTS\RFQ2\bin\Debug\System.Security.Principal.Windows.xml
+C:\workspace\OneDrive\OCS-PROJECTS\RFQ2\obj\Debug\RFQ2.csprojAssemblyReference.cache
+C:\workspace\OneDrive\OCS-PROJECTS\RFQ2\obj\Debug\RFQ2.Desktop.resources
+C:\workspace\OneDrive\OCS-PROJECTS\RFQ2\obj\Debug\RFQ2.forms.FormAddPPRfq.resources
+C:\workspace\OneDrive\OCS-PROJECTS\RFQ2\obj\Debug\RFQ2.forms.FormFOFRQ.resources
+C:\workspace\OneDrive\OCS-PROJECTS\RFQ2\obj\Debug\RFQ2.forms.FormPPRFQ.resources
+C:\workspace\OneDrive\OCS-PROJECTS\RFQ2\obj\Debug\RFQ2.forms.FormVendorEdit.resources
+C:\workspace\OneDrive\OCS-PROJECTS\RFQ2\obj\Debug\RFQ2.forms.FormVendorMgmt.resources
+C:\workspace\OneDrive\OCS-PROJECTS\RFQ2\obj\Debug\RFQ2.Properties.Resources.resources
+C:\workspace\OneDrive\OCS-PROJECTS\RFQ2\obj\Debug\RFQ2.csproj.GenerateResource.cache
+C:\workspace\OneDrive\OCS-PROJECTS\RFQ2\obj\Debug\RFQ2.csproj.CoreCompileInputs.cache
+C:\workspace\OneDrive\OCS-PROJECTS\RFQ2\obj\Debug\RFQ2.exe.manifest
+C:\workspace\OneDrive\OCS-PROJECTS\RFQ2\obj\Debug\RFQ2.application
+C:\workspace\OneDrive\OCS-PROJECTS\RFQ2\obj\Debug\RFQ2.csproj.CopyComplete
+C:\workspace\OneDrive\OCS-PROJECTS\RFQ2\obj\Debug\RFQ2.exe
+C:\workspace\OneDrive\OCS-PROJECTS\RFQ2\obj\Debug\RFQ2.pdb
+E:\RFQ\Source Codes-20231219T054651Z-001\Source Codes\RFQ2\obj\Debug\RFQ2.csproj.AssemblyReference.cache
+E:\RFQ\Source Codes-20231219T054651Z-001\Source Codes\RFQ2\obj\Debug\RFQ2.Desktop.resources
+E:\RFQ\Source Codes-20231219T054651Z-001\Source Codes\RFQ2\obj\Debug\RFQ2.forms.FormAddPPRfq.resources
+E:\RFQ\Source Codes-20231219T054651Z-001\Source Codes\RFQ2\obj\Debug\RFQ2.forms.FormFOFRQ.resources
+E:\RFQ\Source Codes-20231219T054651Z-001\Source Codes\RFQ2\obj\Debug\RFQ2.forms.FormPPRFQ.resources
+E:\RFQ\Source Codes-20231219T054651Z-001\Source Codes\RFQ2\obj\Debug\RFQ2.forms.FormVendorEdit.resources
+E:\RFQ\Source Codes-20231219T054651Z-001\Source Codes\RFQ2\obj\Debug\RFQ2.forms.FormVendorMgmt.resources
+E:\RFQ\Source Codes-20231219T054651Z-001\Source Codes\RFQ2\obj\Debug\RFQ2.Properties.Resources.resources
+E:\RFQ\Source Codes-20231219T054651Z-001\Source Codes\RFQ2\obj\Debug\RFQ2.csproj.GenerateResource.cache
+E:\RFQ\Source Codes-20231219T054651Z-001\Source Codes\RFQ2\obj\Debug\RFQ2.csproj.CoreCompileInputs.cache
+E:\RFQ\Source Codes-20231219T054651Z-001\Source Codes\RFQ2\obj\Debug\RFQ2.exe
+E:\RFQ\Source Codes-20231219T054651Z-001\Source Codes\RFQ2\obj\Debug\RFQ2.pdb
+E:\RFQ\Source Codes-20231219T054651Z-001\Source Codes\RFQ2\bin\Debug\log4net.config
+E:\RFQ\Source Codes-20231219T054651Z-001\Source Codes\RFQ2\bin\Debug\RFQ2.exe.config
+E:\RFQ\Source Codes-20231219T054651Z-001\Source Codes\RFQ2\bin\Debug\RFQ2.exe.manifest
+E:\RFQ\Source Codes-20231219T054651Z-001\Source Codes\RFQ2\bin\Debug\RFQ2.application
+E:\RFQ\Source Codes-20231219T054651Z-001\Source Codes\RFQ2\bin\Debug\RFQ2.exe
+E:\RFQ\Source Codes-20231219T054651Z-001\Source Codes\RFQ2\bin\Debug\RFQ2.pdb
+E:\RFQ\Source Codes-20231219T054651Z-001\Source Codes\RFQ2\bin\Debug\HtmlAgilityPack.dll
+E:\RFQ\Source Codes-20231219T054651Z-001\Source Codes\RFQ2\bin\Debug\log4net.dll
+E:\RFQ\Source Codes-20231219T054651Z-001\Source Codes\RFQ2\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\RFQ\Source Codes-20231219T054651Z-001\Source Codes\RFQ2\bin\Debug\System.Security.AccessControl.dll
+E:\RFQ\Source Codes-20231219T054651Z-001\Source Codes\RFQ2\bin\Debug\System.Security.Permissions.dll
+E:\RFQ\Source Codes-20231219T054651Z-001\Source Codes\RFQ2\bin\Debug\System.Security.Principal.Windows.dll
+E:\RFQ\Source Codes-20231219T054651Z-001\Source Codes\RFQ2\bin\Debug\HtmlAgilityPack.pdb
+E:\RFQ\Source Codes-20231219T054651Z-001\Source Codes\RFQ2\bin\Debug\HtmlAgilityPack.xml
+E:\RFQ\Source Codes-20231219T054651Z-001\Source Codes\RFQ2\bin\Debug\log4net.xml
+E:\RFQ\Source Codes-20231219T054651Z-001\Source Codes\RFQ2\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\RFQ\Source Codes-20231219T054651Z-001\Source Codes\RFQ2\bin\Debug\System.Security.AccessControl.xml
+E:\RFQ\Source Codes-20231219T054651Z-001\Source Codes\RFQ2\bin\Debug\System.Security.Permissions.xml
+E:\RFQ\Source Codes-20231219T054651Z-001\Source Codes\RFQ2\bin\Debug\System.Security.Principal.Windows.xml
+E:\RFQ\Source Codes-20231219T054651Z-001\Source Codes\RFQ2\obj\Debug\RFQ2.exe.manifest
+E:\RFQ\Source Codes-20231219T054651Z-001\Source Codes\RFQ2\obj\Debug\RFQ2.application
+E:\RFQ\Source Codes-20231219T054651Z-001\Source Codes\RFQ2\obj\Debug\RFQ2.csproj.CopyComplete
+E:\RFQ\Source Codes-20231219T054651Z-001\Source Codes\RFQ2\obj\Debug\RFQ2.Form2.resources
+F:\RFQ\Source Codes-20231219T054651Z-001\Source Codes\RFQ2\bin\Debug\log4net.config
+F:\RFQ\Source Codes-20231219T054651Z-001\Source Codes\RFQ2\bin\Debug\RFQ2.exe.config
+F:\RFQ\Source Codes-20231219T054651Z-001\Source Codes\RFQ2\bin\Debug\RFQ2.exe.manifest
+F:\RFQ\Source Codes-20231219T054651Z-001\Source Codes\RFQ2\bin\Debug\RFQ2.application
+F:\RFQ\Source Codes-20231219T054651Z-001\Source Codes\RFQ2\bin\Debug\RFQ2.exe
+F:\RFQ\Source Codes-20231219T054651Z-001\Source Codes\RFQ2\bin\Debug\RFQ2.pdb
+F:\RFQ\Source Codes-20231219T054651Z-001\Source Codes\RFQ2\bin\Debug\HtmlAgilityPack.dll
+F:\RFQ\Source Codes-20231219T054651Z-001\Source Codes\RFQ2\bin\Debug\log4net.dll
+F:\RFQ\Source Codes-20231219T054651Z-001\Source Codes\RFQ2\bin\Debug\System.Configuration.ConfigurationManager.dll
+F:\RFQ\Source Codes-20231219T054651Z-001\Source Codes\RFQ2\bin\Debug\System.Security.AccessControl.dll
+F:\RFQ\Source Codes-20231219T054651Z-001\Source Codes\RFQ2\bin\Debug\System.Security.Permissions.dll
+F:\RFQ\Source Codes-20231219T054651Z-001\Source Codes\RFQ2\bin\Debug\System.Security.Principal.Windows.dll
+F:\RFQ\Source Codes-20231219T054651Z-001\Source Codes\RFQ2\bin\Debug\HtmlAgilityPack.pdb
+F:\RFQ\Source Codes-20231219T054651Z-001\Source Codes\RFQ2\bin\Debug\HtmlAgilityPack.xml
+F:\RFQ\Source Codes-20231219T054651Z-001\Source Codes\RFQ2\bin\Debug\log4net.xml
+F:\RFQ\Source Codes-20231219T054651Z-001\Source Codes\RFQ2\bin\Debug\System.Configuration.ConfigurationManager.xml
+F:\RFQ\Source Codes-20231219T054651Z-001\Source Codes\RFQ2\bin\Debug\System.Security.AccessControl.xml
+F:\RFQ\Source Codes-20231219T054651Z-001\Source Codes\RFQ2\bin\Debug\System.Security.Permissions.xml
+F:\RFQ\Source Codes-20231219T054651Z-001\Source Codes\RFQ2\bin\Debug\System.Security.Principal.Windows.xml
+F:\RFQ\Source Codes-20231219T054651Z-001\Source Codes\RFQ2\obj\Debug\RFQ2.csproj.AssemblyReference.cache
+F:\RFQ\Source Codes-20231219T054651Z-001\Source Codes\RFQ2\obj\Debug\RFQ2.Desktop.resources
+F:\RFQ\Source Codes-20231219T054651Z-001\Source Codes\RFQ2\obj\Debug\RFQ2.Form2.resources
+F:\RFQ\Source Codes-20231219T054651Z-001\Source Codes\RFQ2\obj\Debug\RFQ2.forms.FormAddPPRfq.resources
+F:\RFQ\Source Codes-20231219T054651Z-001\Source Codes\RFQ2\obj\Debug\RFQ2.forms.FormFOFRQ.resources
+F:\RFQ\Source Codes-20231219T054651Z-001\Source Codes\RFQ2\obj\Debug\RFQ2.forms.FormPPRFQ.resources
+F:\RFQ\Source Codes-20231219T054651Z-001\Source Codes\RFQ2\obj\Debug\RFQ2.forms.FormVendorEdit.resources
+F:\RFQ\Source Codes-20231219T054651Z-001\Source Codes\RFQ2\obj\Debug\RFQ2.forms.FormVendorMgmt.resources
+F:\RFQ\Source Codes-20231219T054651Z-001\Source Codes\RFQ2\obj\Debug\RFQ2.Properties.Resources.resources
+F:\RFQ\Source Codes-20231219T054651Z-001\Source Codes\RFQ2\obj\Debug\RFQ2.csproj.GenerateResource.cache
+F:\RFQ\Source Codes-20231219T054651Z-001\Source Codes\RFQ2\obj\Debug\RFQ2.csproj.CoreCompileInputs.cache
+F:\RFQ\Source Codes-20231219T054651Z-001\Source Codes\RFQ2\obj\Debug\RFQ2.exe.manifest
+F:\RFQ\Source Codes-20231219T054651Z-001\Source Codes\RFQ2\obj\Debug\RFQ2.application
+F:\RFQ\Source Codes-20231219T054651Z-001\Source Codes\RFQ2\obj\Debug\RFQ2.exe
+F:\RFQ\Source Codes-20231219T054651Z-001\Source Codes\RFQ2\obj\Debug\RFQ2.pdb
+F:\RFQ\Source Codes-20231219T054651Z-001\Source Codes\RFQ2\obj\Debug\RFQ2.csproj.Up2Date
+D:\.Net\Source Codes1\Source Codes\RFQ2\bin\Debug\log4net.config
+D:\.Net\Source Codes1\Source Codes\RFQ2\bin\Debug\RFQ2.exe.config
+D:\.Net\Source Codes1\Source Codes\RFQ2\bin\Debug\RFQ2.exe.manifest
+D:\.Net\Source Codes1\Source Codes\RFQ2\bin\Debug\RFQ2.application
+D:\.Net\Source Codes1\Source Codes\RFQ2\bin\Debug\RFQ2.exe
+D:\.Net\Source Codes1\Source Codes\RFQ2\bin\Debug\RFQ2.pdb
+D:\.Net\Source Codes1\Source Codes\RFQ2\bin\Debug\HtmlAgilityPack.dll
+D:\.Net\Source Codes1\Source Codes\RFQ2\bin\Debug\log4net.dll
+D:\.Net\Source Codes1\Source Codes\RFQ2\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\.Net\Source Codes1\Source Codes\RFQ2\bin\Debug\System.Security.AccessControl.dll
+D:\.Net\Source Codes1\Source Codes\RFQ2\bin\Debug\System.Security.Permissions.dll
+D:\.Net\Source Codes1\Source Codes\RFQ2\bin\Debug\System.Security.Principal.Windows.dll
+D:\.Net\Source Codes1\Source Codes\RFQ2\bin\Debug\HtmlAgilityPack.pdb
+D:\.Net\Source Codes1\Source Codes\RFQ2\bin\Debug\HtmlAgilityPack.xml
+D:\.Net\Source Codes1\Source Codes\RFQ2\bin\Debug\log4net.xml
+D:\.Net\Source Codes1\Source Codes\RFQ2\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\.Net\Source Codes1\Source Codes\RFQ2\bin\Debug\System.Security.AccessControl.xml
+D:\.Net\Source Codes1\Source Codes\RFQ2\bin\Debug\System.Security.Permissions.xml
+D:\.Net\Source Codes1\Source Codes\RFQ2\bin\Debug\System.Security.Principal.Windows.xml
+D:\.Net\Source Codes1\Source Codes\RFQ2\obj\Debug\RFQ2.csproj.AssemblyReference.cache
+D:\.Net\Source Codes1\Source Codes\RFQ2\obj\Debug\RFQ2.Desktop.resources
+D:\.Net\Source Codes1\Source Codes\RFQ2\obj\Debug\RFQ2.Form2.resources
+D:\.Net\Source Codes1\Source Codes\RFQ2\obj\Debug\RFQ2.forms.FormAddPPRfq.resources
+D:\.Net\Source Codes1\Source Codes\RFQ2\obj\Debug\RFQ2.forms.FormFOFRQ.resources
+D:\.Net\Source Codes1\Source Codes\RFQ2\obj\Debug\RFQ2.forms.FormPPRFQ.resources
+D:\.Net\Source Codes1\Source Codes\RFQ2\obj\Debug\RFQ2.forms.FormVendorEdit.resources
+D:\.Net\Source Codes1\Source Codes\RFQ2\obj\Debug\RFQ2.forms.FormVendorMgmt.resources
+D:\.Net\Source Codes1\Source Codes\RFQ2\obj\Debug\RFQ2.Properties.Resources.resources
+D:\.Net\Source Codes1\Source Codes\RFQ2\obj\Debug\RFQ2.csproj.GenerateResource.cache
+D:\.Net\Source Codes1\Source Codes\RFQ2\obj\Debug\RFQ2.csproj.CoreCompileInputs.cache
+D:\.Net\Source Codes1\Source Codes\RFQ2\obj\Debug\RFQ2.exe.manifest
+D:\.Net\Source Codes1\Source Codes\RFQ2\obj\Debug\RFQ2.application
+D:\.Net\Source Codes1\Source Codes\RFQ2\obj\Debug\RFQ2.csproj.Up2Date
+D:\.Net\Source Codes1\Source Codes\RFQ2\obj\Debug\RFQ2.exe
+D:\.Net\Source Codes1\Source Codes\RFQ2\obj\Debug\RFQ2.pdb
+D:\repo\rfq\RFQ2\bin\Debug\log4net.config
+D:\repo\rfq\RFQ2\bin\Debug\RFQ2.exe.config
+D:\repo\rfq\RFQ2\bin\Debug\RFQ2.exe.manifest
+D:\repo\rfq\RFQ2\bin\Debug\RFQ2.application
+D:\repo\rfq\RFQ2\bin\Debug\RFQ2.exe
+D:\repo\rfq\RFQ2\bin\Debug\RFQ2.pdb
+D:\repo\rfq\RFQ2\bin\Debug\HtmlAgilityPack.dll
+D:\repo\rfq\RFQ2\bin\Debug\log4net.dll
+D:\repo\rfq\RFQ2\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\repo\rfq\RFQ2\bin\Debug\System.Security.AccessControl.dll
+D:\repo\rfq\RFQ2\bin\Debug\System.Security.Permissions.dll
+D:\repo\rfq\RFQ2\bin\Debug\System.Security.Principal.Windows.dll
+D:\repo\rfq\RFQ2\bin\Debug\HtmlAgilityPack.pdb
+D:\repo\rfq\RFQ2\bin\Debug\HtmlAgilityPack.xml
+D:\repo\rfq\RFQ2\bin\Debug\log4net.xml
+D:\repo\rfq\RFQ2\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\repo\rfq\RFQ2\bin\Debug\System.Security.AccessControl.xml
+D:\repo\rfq\RFQ2\bin\Debug\System.Security.Permissions.xml
+D:\repo\rfq\RFQ2\bin\Debug\System.Security.Principal.Windows.xml
+D:\repo\rfq\RFQ2\obj\Debug\RFQ2.csproj.AssemblyReference.cache
+D:\repo\rfq\RFQ2\obj\Debug\RFQ2.Desktop.resources
+D:\repo\rfq\RFQ2\obj\Debug\RFQ2.Form2.resources
+D:\repo\rfq\RFQ2\obj\Debug\RFQ2.forms.FormAddPPRfq.resources
+D:\repo\rfq\RFQ2\obj\Debug\RFQ2.forms.FormFOFRQ.resources
+D:\repo\rfq\RFQ2\obj\Debug\RFQ2.forms.FormPPRFQ.resources
+D:\repo\rfq\RFQ2\obj\Debug\RFQ2.forms.FormVendorEdit.resources
+D:\repo\rfq\RFQ2\obj\Debug\RFQ2.forms.FormVendorMgmt.resources
+D:\repo\rfq\RFQ2\obj\Debug\RFQ2.Properties.Resources.resources
+D:\repo\rfq\RFQ2\obj\Debug\RFQ2.csproj.GenerateResource.cache
+D:\repo\rfq\RFQ2\obj\Debug\RFQ2.csproj.CoreCompileInputs.cache
+D:\repo\rfq\RFQ2\obj\Debug\RFQ2.exe.manifest
+D:\repo\rfq\RFQ2\obj\Debug\RFQ2.application
+D:\repo\rfq\RFQ2\obj\Debug\RFQ2.csproj.Up2Date
+D:\repo\rfq\RFQ2\obj\Debug\RFQ2.exe
+D:\repo\rfq\RFQ2\obj\Debug\RFQ2.pdb
