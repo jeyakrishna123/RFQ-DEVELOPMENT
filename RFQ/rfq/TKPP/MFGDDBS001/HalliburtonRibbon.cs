@@ -1845,9 +1845,8 @@ namespace HalliburtonRFQ
                     // string path = @"C:\Users\Public\Documents\" + "\\LogReadRFQTKPP";
                     // Extract the drive letter of the application
                     string filepath = ReadMailLogPath();
-                    string MyDocuments = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments);
-                    string winstallDrive = Path.GetPathRoot(MyDocuments);
-                    string LogPath = Path.Combine(winstallDrive, "Users", "Public", "Documents", "LogReadRFQTKPP");
+                    // Use the same directory as ReadMailLogPath() to ensure consistent path
+                    string LogPath = Path.GetDirectoryName(filepath);
                     string LogFailedHTML = ConfigurationManager.AppSettings["LogFailedHTML"].ToString();
 
                     #region StreamWriter failed to log all errors
@@ -2396,6 +2395,8 @@ namespace HalliburtonRFQ
                                                 try
                                                 {
                                                     string filename = titleSubject.Substring(titleSubject.LastIndexOf(":") + 1).Trim();
+                                                    // Remove invalid filename characters (comma, brackets, etc.)
+                                                    filename = Regex.Replace(filename, @"[,\[\]\\/:*?""<>|]", "");
                                                     samplemailcontentattaches = Path.Combine(LogPath, $"{filename}_files");
                                                     samplemailcontentpath = Path.Combine(LogPath, $"{filename}.html");
                                                     ((Microsoft.Office.Interop.Outlook.MailItem)moveMail).SaveAs(samplemailcontentpath, Microsoft.Office.Interop.Outlook.OlSaveAsType.olHTML);
