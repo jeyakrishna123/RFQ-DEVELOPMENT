@@ -520,3 +520,40 @@ C:\Users\h237532\OneDrive - Halliburton\Documents\GitHub\RFQ-DEVELOPMENT\RFQ\rfq
 C:\Users\h237532\OneDrive - Halliburton\Documents\GitHub\RFQ-DEVELOPMENT\RFQ\rfq\TKPP\MFGDDBS001\obj\Debug\Hallibur.9C13210D.Up2Date
 C:\Users\h237532\OneDrive - Halliburton\Documents\GitHub\RFQ-DEVELOPMENT\RFQ\rfq\TKPP\MFGDDBS001\obj\Debug\RFQ-TKPP.dll
 C:\Users\h237532\OneDrive - Halliburton\Documents\GitHub\RFQ-DEVELOPMENT\RFQ\rfq\TKPP\MFGDDBS001\obj\Debug\RFQ-TKPP.pdb
+C:\Users\admin\Documents\GitHub\RFQ-DEVELOPMENT\RFQ\rfq\TKPP\MFGDDBS001\bin\Debug\Template\RFQ_FOSO_MailTemplate.html
+C:\Users\admin\Documents\GitHub\RFQ-DEVELOPMENT\RFQ\rfq\TKPP\MFGDDBS001\bin\Debug\RFQ-TKPP.dll.config
+C:\Users\admin\Documents\GitHub\RFQ-DEVELOPMENT\RFQ\rfq\TKPP\MFGDDBS001\bin\Debug\RFQ-TKPP.dll
+C:\Users\admin\Documents\GitHub\RFQ-DEVELOPMENT\RFQ\rfq\TKPP\MFGDDBS001\bin\Debug\RFQ-TKPP.pdb
+C:\Users\admin\Documents\GitHub\RFQ-DEVELOPMENT\RFQ\rfq\TKPP\MFGDDBS001\bin\Debug\RFQ-TKPP.dll.manifest
+C:\Users\admin\Documents\GitHub\RFQ-DEVELOPMENT\RFQ\rfq\TKPP\MFGDDBS001\bin\Debug\RFQ-TKPP.vsto
+C:\Users\admin\Documents\GitHub\RFQ-DEVELOPMENT\RFQ\rfq\TKPP\MFGDDBS001\bin\Debug\HtmlAgilityPack.dll
+C:\Users\admin\Documents\GitHub\RFQ-DEVELOPMENT\RFQ\rfq\TKPP\MFGDDBS001\bin\Debug\log4net.dll
+C:\Users\admin\Documents\GitHub\RFQ-DEVELOPMENT\RFQ\rfq\TKPP\MFGDDBS001\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\admin\Documents\GitHub\RFQ-DEVELOPMENT\RFQ\rfq\TKPP\MFGDDBS001\bin\Debug\Microsoft.Office.Tools.Outlook.dll
+C:\Users\admin\Documents\GitHub\RFQ-DEVELOPMENT\RFQ\rfq\TKPP\MFGDDBS001\bin\Debug\Microsoft.Office.Tools.Outlook.v4.0.Utilities.dll
+C:\Users\admin\Documents\GitHub\RFQ-DEVELOPMENT\RFQ\rfq\TKPP\MFGDDBS001\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.dll
+C:\Users\admin\Documents\GitHub\RFQ-DEVELOPMENT\RFQ\rfq\TKPP\MFGDDBS001\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\admin\Documents\GitHub\RFQ-DEVELOPMENT\RFQ\rfq\TKPP\MFGDDBS001\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\admin\Documents\GitHub\RFQ-DEVELOPMENT\RFQ\rfq\TKPP\MFGDDBS001\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\admin\Documents\GitHub\RFQ-DEVELOPMENT\RFQ\rfq\TKPP\MFGDDBS001\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.dll
+C:\Users\admin\Documents\GitHub\RFQ-DEVELOPMENT\RFQ\rfq\TKPP\MFGDDBS001\bin\Debug\MstHtmlEditor.dll
+C:\Users\admin\Documents\GitHub\RFQ-DEVELOPMENT\RFQ\rfq\TKPP\MFGDDBS001\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\admin\Documents\GitHub\RFQ-DEVELOPMENT\RFQ\rfq\TKPP\MFGDDBS001\bin\Debug\HtmlAgilityPack.xml
+C:\Users\admin\Documents\GitHub\RFQ-DEVELOPMENT\RFQ\rfq\TKPP\MFGDDBS001\bin\Debug\log4net.xml
+C:\Users\admin\Documents\GitHub\RFQ-DEVELOPMENT\RFQ\rfq\TKPP\MFGDDBS001\obj\Debug\HalliburtonRFQ.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\GitHub\RFQ-DEVELOPMENT\RFQ\rfq\TKPP\MFGDDBS001\obj\Debug\HalliburtonRFQ.HalliburtonRibbon.resources
+C:\Users\admin\Documents\GitHub\RFQ-DEVELOPMENT\RFQ\rfq\TKPP\MFGDDBS001\obj\Debug\HalliburtonRFQ.Properties.Resources.resources
+C:\Users\admin\Documents\GitHub\RFQ-DEVELOPMENT\RFQ\rfq\TKPP\MFGDDBS001\obj\Debug\HalliburtonRFQ.Quote_Comparision.resources
+C:\Users\admin\Documents\GitHub\RFQ-DEVELOPMENT\RFQ\rfq\TKPP\MFGDDBS001\obj\Debug\HalliburtonRFQ.RequestApproval.resources
+C:\Users\admin\Documents\GitHub\RFQ-DEVELOPMENT\RFQ\rfq\TKPP\MFGDDBS001\obj\Debug\HalliburtonRFQ.RequestPart.resources
+C:\Users\admin\Documents\GitHub\RFQ-DEVELOPMENT\RFQ\rfq\TKPP\MFGDDBS001\obj\Debug\HalliburtonRFQ.SendRFQ.resources
+C:\Users\admin\Documents\GitHub\RFQ-DEVELOPMENT\RFQ\rfq\TKPP\MFGDDBS001\obj\Debug\HalliburtonRFQ.SendRFQ_FOSO.resources
+C:\Users\admin\Documents\GitHub\RFQ-DEVELOPMENT\RFQ\rfq\TKPP\MFGDDBS001\obj\Debug\HalliburtonRFQ.FOSOTemplate_Edior.resources
+C:\Users\admin\Documents\GitHub\RFQ-DEVELOPMENT\RFQ\rfq\TKPP\MFGDDBS001\obj\Debug\HalliburtonRFQ.SendRFQ_TKPP.resources
+C:\Users\admin\Documents\GitHub\RFQ-DEVELOPMENT\RFQ\rfq\TKPP\MFGDDBS001\obj\Debug\HalliburtonRFQ.Template_Edior.resources
+C:\Users\admin\Documents\GitHub\RFQ-DEVELOPMENT\RFQ\rfq\TKPP\MFGDDBS001\obj\Debug\HalliburtonRFQ.ViewRequest.resources
+C:\Users\admin\Documents\GitHub\RFQ-DEVELOPMENT\RFQ\rfq\TKPP\MFGDDBS001\obj\Debug\HalliburtonRFQ.csproj.GenerateResource.cache
+C:\Users\admin\Documents\GitHub\RFQ-DEVELOPMENT\RFQ\rfq\TKPP\MFGDDBS001\obj\Debug\HalliburtonRFQ.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\GitHub\RFQ-DEVELOPMENT\RFQ\rfq\TKPP\MFGDDBS001\obj\Debug\Hallibur.9C13210D.Up2Date
+C:\Users\admin\Documents\GitHub\RFQ-DEVELOPMENT\RFQ\rfq\TKPP\MFGDDBS001\obj\Debug\RFQ-TKPP.dll
+C:\Users\admin\Documents\GitHub\RFQ-DEVELOPMENT\RFQ\rfq\TKPP\MFGDDBS001\obj\Debug\RFQ-TKPP.pdb

@@ -1268,13 +1268,25 @@ namespace HalliburtonRFQ
                 }
             }
 
-            // If all paths failed, use temp as last resort
+            // If all paths failed, use temp as last resort with write test
             if (string.IsNullOrEmpty(dirpath))
             {
-                dirpath = Path.Combine(Path.GetTempPath(), logFolder);
-                if (!Directory.Exists(dirpath))
+                try
                 {
-                    Directory.CreateDirectory(dirpath);
+                    dirpath = Path.Combine(Path.GetTempPath(), logFolder);
+                    if (!Directory.Exists(dirpath))
+                    {
+                        Directory.CreateDirectory(dirpath);
+                    }
+                    // Test write access for fallback path
+                    string testFile = Path.Combine(dirpath, "write_test.tmp");
+                    File.WriteAllText(testFile, "test");
+                    File.Delete(testFile);
+                }
+                catch
+                {
+                    // Last resort: use temp folder directly without subfolder
+                    dirpath = Path.GetTempPath();
                 }
             }
 
@@ -1865,12 +1877,38 @@ namespace HalliburtonRFQ
                     BasicConfigurator.Configure(fileAppender);
                     #endregion
 
-                    //this method will default select all mail items in inbox and checks for subject contains reply or forward mails of RFQ and send to respective vendor folders                          
+                    //this method will default select all mail items in inbox and checks for subject contains reply or forward mails of RFQ and send to respective vendor folders
                     #region Create Log file for Reading Mails
                     try
                     {
-                        sw = new StreamWriter(filepath, true);
-                        sw.AutoFlush = true;// Ensures data is written immediately
+                        // Use FileStream with FileShare.ReadWrite to allow multiple processes to access the log file
+                        // This prevents file locking issues when Read RFQ is clicked multiple times
+                        int retryCount = 0;
+                        const int maxRetries = 3;
+                        while (retryCount < maxRetries)
+                        {
+                            try
+                            {
+                                FileStream fs = new FileStream(filepath, FileMode.Append, FileAccess.Write, FileShare.ReadWrite);
+                                sw = new StreamWriter(fs);
+                                sw.AutoFlush = true; // Ensures data is written immediately
+                                break; // Success, exit retry loop
+                            }
+                            catch (IOException) when (retryCount < maxRetries - 1)
+                            {
+                                retryCount++;
+                                System.Threading.Thread.Sleep(500); // Wait 500ms before retry
+                            }
+                        }
+                        if (sw == null)
+                        {
+                            // If all retries failed, create a unique log file with timestamp
+                            string uniqueFilepath = Path.Combine(Path.GetDirectoryName(filepath),
+                                $"Read-Mail-Log-{DateTime.Now:dd-MM-yyyy-HHmmss}.txt");
+                            FileStream fs = new FileStream(uniqueFilepath, FileMode.Append, FileAccess.Write, FileShare.ReadWrite);
+                            sw = new StreamWriter(fs);
+                            sw.AutoFlush = true;
+                        }
                         sw.WriteLine($"{string.Join(" ", "reading Start... ")}");
                     }
                     catch (System.Exception ex)
@@ -2397,8 +2435,26 @@ namespace HalliburtonRFQ
                                                     string filename = titleSubject.Substring(titleSubject.LastIndexOf(":") + 1).Trim();
                                                     // Remove invalid filename characters (comma, brackets, etc.)
                                                     filename = Regex.Replace(filename, @"[,\[\]\\/:*?""<>|]", "");
+                                                    // Also remove any leading/trailing dots and spaces which can cause issues
+                                                    filename = filename.Trim().Trim('.');
+                                                    // Ensure filename is not empty after sanitization
+                                                    if (string.IsNullOrWhiteSpace(filename))
+                                                    {
+                                                        filename = $"RFQ_Mail_{DateTime.Now.Ticks}";
+                                                    }
+                                                    // Limit filename length to avoid path too long issues
+                                                    if (filename.Length > 100)
+                                                    {
+                                                        filename = filename.Substring(0, 100);
+                                                    }
                                                     samplemailcontentattaches = Path.Combine(LogPath, $"{filename}_files");
                                                     samplemailcontentpath = Path.Combine(LogPath, $"{filename}.html");
+
+                                                    // Ensure LogPath directory exists before SaveAs
+                                                    if (!Directory.Exists(LogPath))
+                                                    {
+                                                        Directory.CreateDirectory(LogPath);
+                                                    }
                                                     ((Microsoft.Office.Interop.Outlook.MailItem)moveMail).SaveAs(samplemailcontentpath, Microsoft.Office.Interop.Outlook.OlSaveAsType.olHTML);
                                                     visited.Add(samplemailcontentattaches);
                                                     visited.Add(samplemailcontentpath);
